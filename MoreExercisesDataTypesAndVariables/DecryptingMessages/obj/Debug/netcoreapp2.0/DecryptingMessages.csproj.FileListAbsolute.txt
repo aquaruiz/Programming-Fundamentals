@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\bin\Debug\netcoreapp2.0\DecryptingMessages.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\DecryptingMessages\obj\Debug\netcoreapp2.0\DecryptingMessages.pdb

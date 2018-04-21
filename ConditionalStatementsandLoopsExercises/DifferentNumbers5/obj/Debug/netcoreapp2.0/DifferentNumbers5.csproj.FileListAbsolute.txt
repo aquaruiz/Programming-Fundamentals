@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\bin\Debug\netcoreapp2.0\DifferentNumbers5.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\bin\Debug\netcoreapp2.0\DifferentNumbers5.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\bin\Debug\netcoreapp2.0\DifferentNumbers5.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\bin\Debug\netcoreapp2.0\DifferentNumbers5.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\bin\Debug\netcoreapp2.0\DifferentNumbers5.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\obj\Debug\netcoreapp2.0\DifferentNumbers5.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\obj\Debug\netcoreapp2.0\DifferentNumbers5.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\obj\Debug\netcoreapp2.0\DifferentNumbers5.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\obj\Debug\netcoreapp2.0\DifferentNumbers5.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\obj\Debug\netcoreapp2.0\DifferentNumbers5.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\DifferentNumbers5\obj\Debug\netcoreapp2.0\DifferentNumbers5.pdb

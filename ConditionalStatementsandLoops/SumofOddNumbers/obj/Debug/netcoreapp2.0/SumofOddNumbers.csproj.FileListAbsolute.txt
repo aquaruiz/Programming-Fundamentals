@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\bin\Debug\netcoreapp2.0\SumofOddNumbers.deps.json
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\bin\Debug\netcoreapp2.0\SumofOddNumbers.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\bin\Debug\netcoreapp2.0\SumofOddNumbers.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\bin\Debug\netcoreapp2.0\SumofOddNumbers.dll
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\bin\Debug\netcoreapp2.0\SumofOddNumbers.pdb
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\obj\Debug\netcoreapp2.0\SumofOddNumbers.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\obj\Debug\netcoreapp2.0\SumofOddNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\obj\Debug\netcoreapp2.0\SumofOddNumbers.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\obj\Debug\netcoreapp2.0\SumofOddNumbers.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\obj\Debug\netcoreapp2.0\SumofOddNumbers.dll
+D:\Repos\ConditionalStatementsandLoops\SumofOddNumbers\obj\Debug\netcoreapp2.0\SumofOddNumbers.pdb

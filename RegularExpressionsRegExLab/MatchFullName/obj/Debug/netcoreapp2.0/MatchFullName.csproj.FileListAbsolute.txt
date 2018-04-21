@@ -1,0 +1,11 @@
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\bin\Debug\netcoreapp2.0\MatchFullName.deps.json
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\bin\Debug\netcoreapp2.0\MatchFullName.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\bin\Debug\netcoreapp2.0\MatchFullName.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\bin\Debug\netcoreapp2.0\MatchFullName.dll
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\bin\Debug\netcoreapp2.0\MatchFullName.pdb
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\obj\Debug\netcoreapp2.0\MatchFullName.csprojResolveAssemblyReference.cache
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\obj\Debug\netcoreapp2.0\MatchFullName.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\obj\Debug\netcoreapp2.0\MatchFullName.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\obj\Debug\netcoreapp2.0\MatchFullName.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\obj\Debug\netcoreapp2.0\MatchFullName.dll
+D:\Repos\RegularExpressionsRegExLab\MatchFullName\obj\Debug\netcoreapp2.0\MatchFullName.pdb

@@ -1,0 +1,10 @@
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.deps.json
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.dll
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\bin\Debug\netcoreapp2.0\MagicExchangeableWords.pdb
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.dll
+D:\Repos\StringsAndTextProcessingExercises\MagicExchangeableWords\obj\Debug\netcoreapp2.0\MagicExchangeableWords.pdb

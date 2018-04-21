@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\bin\Debug\netcoreapp2.0\DebugMiningCoins.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\bin\Debug\netcoreapp2.0\DebugMiningCoins.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\bin\Debug\netcoreapp2.0\DebugMiningCoins.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\bin\Debug\netcoreapp2.0\DebugMiningCoins.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\bin\Debug\netcoreapp2.0\DebugMiningCoins.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\obj\Debug\netcoreapp2.0\DebugMiningCoins.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\obj\Debug\netcoreapp2.0\DebugMiningCoins.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\obj\Debug\netcoreapp2.0\DebugMiningCoins.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\obj\Debug\netcoreapp2.0\DebugMiningCoins.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\obj\Debug\netcoreapp2.0\DebugMiningCoins.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugMiningCoins\obj\Debug\netcoreapp2.0\DebugMiningCoins.pdb

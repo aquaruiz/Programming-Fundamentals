@@ -1,0 +1,11 @@
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\bin\Debug\netcoreapp2.0\ResizableArray.deps.json
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\bin\Debug\netcoreapp2.0\ResizableArray.runtimeconfig.json
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\bin\Debug\netcoreapp2.0\ResizableArray.runtimeconfig.dev.json
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\bin\Debug\netcoreapp2.0\ResizableArray.dll
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\bin\Debug\netcoreapp2.0\ResizableArray.pdb
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\obj\Debug\netcoreapp2.0\ResizableArray.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\obj\Debug\netcoreapp2.0\ResizableArray.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\obj\Debug\netcoreapp2.0\ResizableArray.AssemblyInfoInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\obj\Debug\netcoreapp2.0\ResizableArray.AssemblyInfo.cs
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\obj\Debug\netcoreapp2.0\ResizableArray.dll
+D:\Repos\ExtendedMoreExcersisesArrays\ResizableArray\obj\Debug\netcoreapp2.0\ResizableArray.pdb

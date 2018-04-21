@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.deps.json
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.dll
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.pdb
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.dll
+D:\Repos\DataTypesAndVariablesExercices\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.pdb

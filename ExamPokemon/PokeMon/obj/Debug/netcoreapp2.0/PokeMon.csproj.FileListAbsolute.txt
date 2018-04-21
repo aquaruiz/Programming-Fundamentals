@@ -1,0 +1,11 @@
+D:\Repos\ExamPokemon\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.deps.json
+D:\Repos\ExamPokemon\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.json
+D:\Repos\ExamPokemon\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.runtimeconfig.dev.json
+D:\Repos\ExamPokemon\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.dll
+D:\Repos\ExamPokemon\PokeMon\bin\Debug\netcoreapp2.0\PokeMon.pdb
+D:\Repos\ExamPokemon\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.csprojResolveAssemblyReference.cache
+D:\Repos\ExamPokemon\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.csproj.CoreCompileInputs.cache
+D:\Repos\ExamPokemon\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfoInputs.cache
+D:\Repos\ExamPokemon\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.AssemblyInfo.cs
+D:\Repos\ExamPokemon\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.dll
+D:\Repos\ExamPokemon\PokeMon\obj\Debug\netcoreapp2.0\PokeMon.pdb

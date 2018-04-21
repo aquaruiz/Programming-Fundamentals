@@ -1,0 +1,11 @@
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\bin\Debug\netcoreapp2.0\QueryMess.deps.json
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\bin\Debug\netcoreapp2.0\QueryMess.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\bin\Debug\netcoreapp2.0\QueryMess.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\bin\Debug\netcoreapp2.0\QueryMess.dll
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\bin\Debug\netcoreapp2.0\QueryMess.pdb
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\obj\Debug\netcoreapp2.0\QueryMess.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\obj\Debug\netcoreapp2.0\QueryMess.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\obj\Debug\netcoreapp2.0\QueryMess.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\obj\Debug\netcoreapp2.0\QueryMess.dll
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\obj\Debug\netcoreapp2.0\QueryMess.pdb
+D:\Repos\RegularExpressionsRegExExercises\QueryMess\obj\Debug\netcoreapp2.0\QueryMess.csprojResolveAssemblyReference.cache

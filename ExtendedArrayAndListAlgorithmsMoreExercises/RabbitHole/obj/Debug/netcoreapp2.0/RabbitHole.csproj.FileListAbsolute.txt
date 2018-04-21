@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\bin\Debug\netcoreapp2.0\RabbitHole.deps.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\bin\Debug\netcoreapp2.0\RabbitHole.runtimeconfig.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\bin\Debug\netcoreapp2.0\RabbitHole.runtimeconfig.dev.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\bin\Debug\netcoreapp2.0\RabbitHole.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\bin\Debug\netcoreapp2.0\RabbitHole.pdb
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\obj\Debug\netcoreapp2.0\RabbitHole.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\obj\Debug\netcoreapp2.0\RabbitHole.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\obj\Debug\netcoreapp2.0\RabbitHole.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\obj\Debug\netcoreapp2.0\RabbitHole.AssemblyInfo.cs
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\obj\Debug\netcoreapp2.0\RabbitHole.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\RabbitHole\obj\Debug\netcoreapp2.0\RabbitHole.pdb

@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\bin\Debug\netcoreapp2.0\PriceChangeAlert.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\bin\Debug\netcoreapp2.0\PriceChangeAlert.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\bin\Debug\netcoreapp2.0\PriceChangeAlert.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\bin\Debug\netcoreapp2.0\PriceChangeAlert.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\bin\Debug\netcoreapp2.0\PriceChangeAlert.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\obj\Debug\netcoreapp2.0\PriceChangeAlert.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\obj\Debug\netcoreapp2.0\PriceChangeAlert.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\obj\Debug\netcoreapp2.0\PriceChangeAlert.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\obj\Debug\netcoreapp2.0\PriceChangeAlert.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\obj\Debug\netcoreapp2.0\PriceChangeAlert.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\PriceChangeAlert\obj\Debug\netcoreapp2.0\PriceChangeAlert.pdb

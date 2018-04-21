@@ -1,0 +1,10 @@
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\bin\Debug\netcoreapp2.0\VariableInHexadecimalFormat.deps.json
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\bin\Debug\netcoreapp2.0\VariableInHexadecimalFormat.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\bin\Debug\netcoreapp2.0\VariableInHexadecimalFormat.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\bin\Debug\netcoreapp2.0\VariableInHexadecimalFormat.dll
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\bin\Debug\netcoreapp2.0\VariableInHexadecimalFormat.pdb
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\obj\Debug\netcoreapp2.0\VariableInHexadecimalFormat.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\obj\Debug\netcoreapp2.0\VariableInHexadecimalFormat.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\obj\Debug\netcoreapp2.0\VariableInHexadecimalFormat.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\obj\Debug\netcoreapp2.0\VariableInHexadecimalFormat.dll
+D:\Repos\DataTypesAndVariablesExercices\VariableInHexadecimalFormat\obj\Debug\netcoreapp2.0\VariableInHexadecimalFormat.pdb

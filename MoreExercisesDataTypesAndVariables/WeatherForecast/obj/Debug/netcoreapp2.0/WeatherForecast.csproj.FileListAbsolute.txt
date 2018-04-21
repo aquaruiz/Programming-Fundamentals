@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.pdb

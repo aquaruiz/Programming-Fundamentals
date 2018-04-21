@@ -1,0 +1,10 @@
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\bin\Debug\netcoreapp2.0\TheatrePromotions.deps.json
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\bin\Debug\netcoreapp2.0\TheatrePromotions.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\bin\Debug\netcoreapp2.0\TheatrePromotions.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\bin\Debug\netcoreapp2.0\TheatrePromotions.dll
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\bin\Debug\netcoreapp2.0\TheatrePromotions.pdb
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\obj\Debug\netcoreapp2.0\TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\obj\Debug\netcoreapp2.0\TheatrePromotions.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\obj\Debug\netcoreapp2.0\TheatrePromotions.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\obj\Debug\netcoreapp2.0\TheatrePromotions.dll
+D:\Repos\ConditionalStatementsandLoops\TheatrePromotions\obj\Debug\netcoreapp2.0\TheatrePromotions.pdb

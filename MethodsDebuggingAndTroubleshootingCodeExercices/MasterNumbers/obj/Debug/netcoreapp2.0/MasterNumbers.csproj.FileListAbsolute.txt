@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\bin\Debug\netcoreapp2.0\MasterNumbers.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\bin\Debug\netcoreapp2.0\MasterNumbers.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\bin\Debug\netcoreapp2.0\MasterNumbers.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\bin\Debug\netcoreapp2.0\MasterNumbers.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\bin\Debug\netcoreapp2.0\MasterNumbers.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\obj\Debug\netcoreapp2.0\MasterNumbers.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\obj\Debug\netcoreapp2.0\MasterNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\obj\Debug\netcoreapp2.0\MasterNumbers.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\obj\Debug\netcoreapp2.0\MasterNumbers.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\obj\Debug\netcoreapp2.0\MasterNumbers.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\MasterNumbers\obj\Debug\netcoreapp2.0\MasterNumbers.pdb

@@ -1,0 +1,11 @@
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\bin\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.deps.json
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\bin\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\bin\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\bin\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.dll
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\bin\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.pdb
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\obj\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\obj\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\obj\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\obj\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.dll
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\obj\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.pdb
+D:\Repos\StringsAndTextProcessingExercises\ConvertfromBaseNtoBase10\obj\Debug\netcoreapp2.0\ConvertfromBaseNtoBase10.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\bin\Debug\netcoreapp2.0\PizzaIngredients.deps.json
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\bin\Debug\netcoreapp2.0\PizzaIngredients.runtimeconfig.json
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\bin\Debug\netcoreapp2.0\PizzaIngredients.runtimeconfig.dev.json
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\bin\Debug\netcoreapp2.0\PizzaIngredients.dll
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\bin\Debug\netcoreapp2.0\PizzaIngredients.pdb
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\obj\Debug\netcoreapp2.0\PizzaIngredients.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\obj\Debug\netcoreapp2.0\PizzaIngredients.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\obj\Debug\netcoreapp2.0\PizzaIngredients.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\obj\Debug\netcoreapp2.0\PizzaIngredients.AssemblyInfo.cs
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\obj\Debug\netcoreapp2.0\PizzaIngredients.dll
+D:\Repos\MoreExercisesArraysAndMethods\PizzaIngredients\obj\Debug\netcoreapp2.0\PizzaIngredients.pdb

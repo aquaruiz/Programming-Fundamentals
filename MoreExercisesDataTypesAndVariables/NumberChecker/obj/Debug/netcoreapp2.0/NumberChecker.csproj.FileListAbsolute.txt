@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\bin\Debug\netcoreapp2.0\NumberChecker.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\NumberChecker\obj\Debug\netcoreapp2.0\NumberChecker.pdb

@@ -1,0 +1,10 @@
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers2.deps.json
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers2.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers2.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers2.dll
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\bin\Debug\netcoreapp2.0\PracticeIntegerNumbers2.pdb
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers2.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers2.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers2.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers2.dll
+D:\Repos\DataTypesAndVariablesExercices\PracticeIntegerNumbers2\obj\Debug\netcoreapp2.0\PracticeIntegerNumbers2.pdb

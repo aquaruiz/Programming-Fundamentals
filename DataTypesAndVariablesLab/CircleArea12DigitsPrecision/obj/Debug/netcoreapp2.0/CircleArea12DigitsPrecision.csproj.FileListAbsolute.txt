@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\bin\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.deps.json
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\bin\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\bin\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\bin\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.dll
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\bin\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.pdb
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\obj\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\obj\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\obj\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\obj\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\obj\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.dll
+D:\Repos\DataTypesAndVariablesLab\CircleArea12DigitsPrecision\obj\Debug\netcoreapp2.0\CircleArea12DigitsPrecision.pdb

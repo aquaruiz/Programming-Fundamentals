@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\bin\Debug\netcoreapp2.0\DrawAFilledSquare.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\bin\Debug\netcoreapp2.0\DrawAFilledSquare.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\bin\Debug\netcoreapp2.0\DrawAFilledSquare.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\bin\Debug\netcoreapp2.0\DrawAFilledSquare.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\bin\Debug\netcoreapp2.0\DrawAFilledSquare.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\obj\Debug\netcoreapp2.0\DrawAFilledSquare.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\obj\Debug\netcoreapp2.0\DrawAFilledSquare.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\obj\Debug\netcoreapp2.0\DrawAFilledSquare.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\obj\Debug\netcoreapp2.0\DrawAFilledSquare.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\obj\Debug\netcoreapp2.0\DrawAFilledSquare.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\DrawAFilledSquare\obj\Debug\netcoreapp2.0\DrawAFilledSquare.pdb

@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\bin\Debug\netcoreapp2.0\GeometryCalculator.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\bin\Debug\netcoreapp2.0\GeometryCalculator.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\bin\Debug\netcoreapp2.0\GeometryCalculator.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\bin\Debug\netcoreapp2.0\GeometryCalculator.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\bin\Debug\netcoreapp2.0\GeometryCalculator.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\obj\Debug\netcoreapp2.0\GeometryCalculator.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\obj\Debug\netcoreapp2.0\GeometryCalculator.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\obj\Debug\netcoreapp2.0\GeometryCalculator.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\obj\Debug\netcoreapp2.0\GeometryCalculator.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\obj\Debug\netcoreapp2.0\GeometryCalculator.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\GeometryCalculator\obj\Debug\netcoreapp2.0\GeometryCalculator.pdb

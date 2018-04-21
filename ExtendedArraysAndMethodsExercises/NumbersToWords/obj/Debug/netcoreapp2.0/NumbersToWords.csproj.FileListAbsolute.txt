@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\obj\Debug\netcoreapp2.0\NumbersToWords.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\obj\Debug\netcoreapp2.0\NumbersToWords.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\obj\Debug\netcoreapp2.0\NumbersToWords.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\obj\Debug\netcoreapp2.0\NumbersToWords.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\bin\Debug\netcoreapp2.0\NumbersToWords.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\bin\Debug\netcoreapp2.0\NumbersToWords.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\bin\Debug\netcoreapp2.0\NumbersToWords.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\bin\Debug\netcoreapp2.0\NumbersToWords.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\bin\Debug\netcoreapp2.0\NumbersToWords.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\obj\Debug\netcoreapp2.0\NumbersToWords.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\NumbersToWords\obj\Debug\netcoreapp2.0\NumbersToWords.pdb

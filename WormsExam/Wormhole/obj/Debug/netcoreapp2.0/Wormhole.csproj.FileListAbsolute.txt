@@ -1,0 +1,11 @@
+D:\Repos\WormsExam\Wormhole\bin\Debug\netcoreapp2.0\Wormhole.deps.json
+D:\Repos\WormsExam\Wormhole\bin\Debug\netcoreapp2.0\Wormhole.runtimeconfig.json
+D:\Repos\WormsExam\Wormhole\bin\Debug\netcoreapp2.0\Wormhole.runtimeconfig.dev.json
+D:\Repos\WormsExam\Wormhole\bin\Debug\netcoreapp2.0\Wormhole.dll
+D:\Repos\WormsExam\Wormhole\bin\Debug\netcoreapp2.0\Wormhole.pdb
+D:\Repos\WormsExam\Wormhole\obj\Debug\netcoreapp2.0\Wormhole.csprojResolveAssemblyReference.cache
+D:\Repos\WormsExam\Wormhole\obj\Debug\netcoreapp2.0\Wormhole.csproj.CoreCompileInputs.cache
+D:\Repos\WormsExam\Wormhole\obj\Debug\netcoreapp2.0\Wormhole.AssemblyInfoInputs.cache
+D:\Repos\WormsExam\Wormhole\obj\Debug\netcoreapp2.0\Wormhole.AssemblyInfo.cs
+D:\Repos\WormsExam\Wormhole\obj\Debug\netcoreapp2.0\Wormhole.dll
+D:\Repos\WormsExam\Wormhole\obj\Debug\netcoreapp2.0\Wormhole.pdb

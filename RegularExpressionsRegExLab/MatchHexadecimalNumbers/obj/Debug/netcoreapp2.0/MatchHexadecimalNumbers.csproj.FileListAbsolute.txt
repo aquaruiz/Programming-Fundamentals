@@ -1,0 +1,10 @@
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.deps.json
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.dll
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.pdb
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.dll
+D:\Repos\RegularExpressionsRegExLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.pdb

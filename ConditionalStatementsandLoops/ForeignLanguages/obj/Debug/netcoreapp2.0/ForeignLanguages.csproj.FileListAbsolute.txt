@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.deps.json
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.dll
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\bin\Debug\netcoreapp2.0\ForeignLanguages.pdb
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.dll
+D:\Repos\ConditionalStatementsandLoops\ForeignLanguages\obj\Debug\netcoreapp2.0\ForeignLanguages.pdb

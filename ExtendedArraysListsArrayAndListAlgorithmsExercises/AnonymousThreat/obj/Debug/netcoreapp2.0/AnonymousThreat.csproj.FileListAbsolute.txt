@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.deps.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.runtimeconfig.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.dll
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\bin\Debug\netcoreapp2.0\AnonymousThreat.pdb
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.AssemblyInfo.cs
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.dll
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\AnonymousThreat\obj\Debug\netcoreapp2.0\AnonymousThreat.pdb

@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoops\Passed\bin\Debug\netcoreapp2.0\Passed.deps.json
+D:\Repos\ConditionalStatementsandLoops\Passed\bin\Debug\netcoreapp2.0\Passed.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\Passed\bin\Debug\netcoreapp2.0\Passed.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\Passed\bin\Debug\netcoreapp2.0\Passed.dll
+D:\Repos\ConditionalStatementsandLoops\Passed\bin\Debug\netcoreapp2.0\Passed.pdb
+D:\Repos\ConditionalStatementsandLoops\Passed\obj\Debug\netcoreapp2.0\Passed.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoops\Passed\obj\Debug\netcoreapp2.0\Passed.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\Passed\obj\Debug\netcoreapp2.0\Passed.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\Passed\obj\Debug\netcoreapp2.0\Passed.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\Passed\obj\Debug\netcoreapp2.0\Passed.dll
+D:\Repos\ConditionalStatementsandLoops\Passed\obj\Debug\netcoreapp2.0\Passed.pdb

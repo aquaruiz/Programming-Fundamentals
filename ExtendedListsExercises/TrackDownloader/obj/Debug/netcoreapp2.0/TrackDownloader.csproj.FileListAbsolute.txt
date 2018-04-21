@@ -1,0 +1,11 @@
+D:\Repos\ExtendedListsExercises\TrackDownloader\bin\Debug\netcoreapp2.0\TrackDownloader.deps.json
+D:\Repos\ExtendedListsExercises\TrackDownloader\bin\Debug\netcoreapp2.0\TrackDownloader.runtimeconfig.json
+D:\Repos\ExtendedListsExercises\TrackDownloader\bin\Debug\netcoreapp2.0\TrackDownloader.runtimeconfig.dev.json
+D:\Repos\ExtendedListsExercises\TrackDownloader\bin\Debug\netcoreapp2.0\TrackDownloader.dll
+D:\Repos\ExtendedListsExercises\TrackDownloader\bin\Debug\netcoreapp2.0\TrackDownloader.pdb
+D:\Repos\ExtendedListsExercises\TrackDownloader\obj\Debug\netcoreapp2.0\TrackDownloader.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedListsExercises\TrackDownloader\obj\Debug\netcoreapp2.0\TrackDownloader.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedListsExercises\TrackDownloader\obj\Debug\netcoreapp2.0\TrackDownloader.AssemblyInfoInputs.cache
+D:\Repos\ExtendedListsExercises\TrackDownloader\obj\Debug\netcoreapp2.0\TrackDownloader.AssemblyInfo.cs
+D:\Repos\ExtendedListsExercises\TrackDownloader\obj\Debug\netcoreapp2.0\TrackDownloader.dll
+D:\Repos\ExtendedListsExercises\TrackDownloader\obj\Debug\netcoreapp2.0\TrackDownloader.pdb

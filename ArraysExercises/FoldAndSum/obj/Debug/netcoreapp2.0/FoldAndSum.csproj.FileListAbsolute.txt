@@ -1,0 +1,11 @@
+D:\Repos\ArraysExercises\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.deps.json
+D:\Repos\ArraysExercises\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.json
+D:\Repos\ArraysExercises\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.dev.json
+D:\Repos\ArraysExercises\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\Repos\ArraysExercises\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.pdb
+D:\Repos\ArraysExercises\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysExercises\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysExercises\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfoInputs.cache
+D:\Repos\ArraysExercises\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfo.cs
+D:\Repos\ArraysExercises\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\Repos\ArraysExercises\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.pdb

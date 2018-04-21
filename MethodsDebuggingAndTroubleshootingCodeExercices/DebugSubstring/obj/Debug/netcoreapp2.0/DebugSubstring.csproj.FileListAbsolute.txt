@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\bin\Debug\netcoreapp2.0\DebugSubstring.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\bin\Debug\netcoreapp2.0\DebugSubstring.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\bin\Debug\netcoreapp2.0\DebugSubstring.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\bin\Debug\netcoreapp2.0\DebugSubstring.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\bin\Debug\netcoreapp2.0\DebugSubstring.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\obj\Debug\netcoreapp2.0\DebugSubstring.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\obj\Debug\netcoreapp2.0\DebugSubstring.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\obj\Debug\netcoreapp2.0\DebugSubstring.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\obj\Debug\netcoreapp2.0\DebugSubstring.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\obj\Debug\netcoreapp2.0\DebugSubstring.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugSubstring\obj\Debug\netcoreapp2.0\DebugSubstring.csprojResolveAssemblyReference.cache

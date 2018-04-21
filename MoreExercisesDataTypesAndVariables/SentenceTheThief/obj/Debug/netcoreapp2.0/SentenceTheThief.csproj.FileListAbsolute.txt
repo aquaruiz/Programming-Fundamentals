@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\bin\Debug\netcoreapp2.0\SentenceTheThief.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\SentenceTheThief\obj\Debug\netcoreapp2.0\SentenceTheThief.pdb

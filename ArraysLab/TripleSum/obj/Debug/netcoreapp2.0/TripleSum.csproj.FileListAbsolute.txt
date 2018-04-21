@@ -1,0 +1,11 @@
+D:\Repos\ArraysLab\TripleSum\bin\Debug\netcoreapp2.0\TripleSum.deps.json
+D:\Repos\ArraysLab\TripleSum\bin\Debug\netcoreapp2.0\TripleSum.runtimeconfig.json
+D:\Repos\ArraysLab\TripleSum\bin\Debug\netcoreapp2.0\TripleSum.runtimeconfig.dev.json
+D:\Repos\ArraysLab\TripleSum\bin\Debug\netcoreapp2.0\TripleSum.dll
+D:\Repos\ArraysLab\TripleSum\bin\Debug\netcoreapp2.0\TripleSum.pdb
+D:\Repos\ArraysLab\TripleSum\obj\Debug\netcoreapp2.0\TripleSum.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysLab\TripleSum\obj\Debug\netcoreapp2.0\TripleSum.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysLab\TripleSum\obj\Debug\netcoreapp2.0\TripleSum.AssemblyInfoInputs.cache
+D:\Repos\ArraysLab\TripleSum\obj\Debug\netcoreapp2.0\TripleSum.AssemblyInfo.cs
+D:\Repos\ArraysLab\TripleSum\obj\Debug\netcoreapp2.0\TripleSum.dll
+D:\Repos\ArraysLab\TripleSum\obj\Debug\netcoreapp2.0\TripleSum.pdb

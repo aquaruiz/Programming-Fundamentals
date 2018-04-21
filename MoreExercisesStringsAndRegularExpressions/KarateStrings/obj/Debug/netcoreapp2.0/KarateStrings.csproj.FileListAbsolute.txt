@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\bin\Debug\netcoreapp2.0\KarateStrings.deps.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\bin\Debug\netcoreapp2.0\KarateStrings.runtimeconfig.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\bin\Debug\netcoreapp2.0\KarateStrings.runtimeconfig.dev.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\bin\Debug\netcoreapp2.0\KarateStrings.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\bin\Debug\netcoreapp2.0\KarateStrings.pdb
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\obj\Debug\netcoreapp2.0\KarateStrings.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\obj\Debug\netcoreapp2.0\KarateStrings.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\obj\Debug\netcoreapp2.0\KarateStrings.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\obj\Debug\netcoreapp2.0\KarateStrings.AssemblyInfo.cs
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\obj\Debug\netcoreapp2.0\KarateStrings.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\KarateStrings\obj\Debug\netcoreapp2.0\KarateStrings.pdb

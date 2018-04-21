@@ -1,0 +1,10 @@
+D:\Repos\RegularExpressionsRegExExercises\Weather\bin\Debug\netcoreapp2.0\Weather.deps.json
+D:\Repos\RegularExpressionsRegExExercises\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExExercises\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExExercises\Weather\bin\Debug\netcoreapp2.0\Weather.dll
+D:\Repos\RegularExpressionsRegExExercises\Weather\bin\Debug\netcoreapp2.0\Weather.pdb
+D:\Repos\RegularExpressionsRegExExercises\Weather\obj\Debug\netcoreapp2.0\Weather.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExExercises\Weather\obj\Debug\netcoreapp2.0\Weather.dll
+D:\Repos\RegularExpressionsRegExExercises\Weather\obj\Debug\netcoreapp2.0\Weather.pdb

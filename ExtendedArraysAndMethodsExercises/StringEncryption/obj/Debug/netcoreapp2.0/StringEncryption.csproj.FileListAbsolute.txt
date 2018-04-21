@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\obj\Debug\netcoreapp2.0\StringEncryption.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\obj\Debug\netcoreapp2.0\StringEncryption.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\obj\Debug\netcoreapp2.0\StringEncryption.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\obj\Debug\netcoreapp2.0\StringEncryption.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\bin\Debug\netcoreapp2.0\StringEncryption.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\bin\Debug\netcoreapp2.0\StringEncryption.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\bin\Debug\netcoreapp2.0\StringEncryption.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\bin\Debug\netcoreapp2.0\StringEncryption.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\bin\Debug\netcoreapp2.0\StringEncryption.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\obj\Debug\netcoreapp2.0\StringEncryption.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\StringEncryption\obj\Debug\netcoreapp2.0\StringEncryption.pdb

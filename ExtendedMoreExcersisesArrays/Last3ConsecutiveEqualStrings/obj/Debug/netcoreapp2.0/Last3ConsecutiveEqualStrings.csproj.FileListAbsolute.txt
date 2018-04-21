@@ -1,0 +1,11 @@
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.deps.json
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.runtimeconfig.json
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.runtimeconfig.dev.json
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.dll
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\bin\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.pdb
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.AssemblyInfoInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.AssemblyInfo.cs
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.dll
+D:\Repos\ExtendedMoreExcersisesArrays\Last3ConsecutiveEqualStrings\obj\Debug\netcoreapp2.0\Last3ConsecutiveEqualStrings.pdb

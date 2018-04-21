@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\obj\Debug\netcoreapp2.0\PhotoGallery.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\obj\Debug\netcoreapp2.0\PhotoGallery.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\obj\Debug\netcoreapp2.0\PhotoGallery.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\obj\Debug\netcoreapp2.0\PhotoGallery.AssemblyInfo.cs
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\bin\Debug\netcoreapp2.0\PhotoGallery.deps.json
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\bin\Debug\netcoreapp2.0\PhotoGallery.runtimeconfig.json
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\bin\Debug\netcoreapp2.0\PhotoGallery.runtimeconfig.dev.json
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\bin\Debug\netcoreapp2.0\PhotoGallery.dll
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\bin\Debug\netcoreapp2.0\PhotoGallery.pdb
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\obj\Debug\netcoreapp2.0\PhotoGallery.dll
+D:\Repos\MoreExercisesBasicSyntax\PhotoGallery\obj\Debug\netcoreapp2.0\PhotoGallery.pdb

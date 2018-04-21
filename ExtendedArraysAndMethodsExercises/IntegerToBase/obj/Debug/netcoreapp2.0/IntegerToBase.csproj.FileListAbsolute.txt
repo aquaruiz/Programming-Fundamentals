@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\bin\Debug\netcoreapp2.0\IntegerToBase.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\bin\Debug\netcoreapp2.0\IntegerToBase.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\bin\Debug\netcoreapp2.0\IntegerToBase.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\bin\Debug\netcoreapp2.0\IntegerToBase.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\bin\Debug\netcoreapp2.0\IntegerToBase.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\obj\Debug\netcoreapp2.0\IntegerToBase.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\obj\Debug\netcoreapp2.0\IntegerToBase.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\obj\Debug\netcoreapp2.0\IntegerToBase.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\obj\Debug\netcoreapp2.0\IntegerToBase.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\obj\Debug\netcoreapp2.0\IntegerToBase.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\IntegerToBase\obj\Debug\netcoreapp2.0\IntegerToBase.pdb

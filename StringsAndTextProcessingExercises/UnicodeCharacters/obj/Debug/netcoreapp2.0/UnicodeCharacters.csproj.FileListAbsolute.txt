@@ -1,0 +1,11 @@
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.deps.json
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.dll
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\bin\Debug\netcoreapp2.0\UnicodeCharacters.pdb
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.dll
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.pdb
+D:\Repos\StringsAndTextProcessingExercises\UnicodeCharacters\obj\Debug\netcoreapp2.0\UnicodeCharacters.csprojResolveAssemblyReference.cache

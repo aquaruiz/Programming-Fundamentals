@@ -1,0 +1,11 @@
+D:\Repos\ArraysExercises\SieveEratosthenes\bin\Debug\netcoreapp2.0\SieveEratosthenes.deps.json
+D:\Repos\ArraysExercises\SieveEratosthenes\bin\Debug\netcoreapp2.0\SieveEratosthenes.runtimeconfig.json
+D:\Repos\ArraysExercises\SieveEratosthenes\bin\Debug\netcoreapp2.0\SieveEratosthenes.runtimeconfig.dev.json
+D:\Repos\ArraysExercises\SieveEratosthenes\bin\Debug\netcoreapp2.0\SieveEratosthenes.dll
+D:\Repos\ArraysExercises\SieveEratosthenes\bin\Debug\netcoreapp2.0\SieveEratosthenes.pdb
+D:\Repos\ArraysExercises\SieveEratosthenes\obj\Debug\netcoreapp2.0\SieveEratosthenes.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysExercises\SieveEratosthenes\obj\Debug\netcoreapp2.0\SieveEratosthenes.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysExercises\SieveEratosthenes\obj\Debug\netcoreapp2.0\SieveEratosthenes.AssemblyInfoInputs.cache
+D:\Repos\ArraysExercises\SieveEratosthenes\obj\Debug\netcoreapp2.0\SieveEratosthenes.AssemblyInfo.cs
+D:\Repos\ArraysExercises\SieveEratosthenes\obj\Debug\netcoreapp2.0\SieveEratosthenes.dll
+D:\Repos\ArraysExercises\SieveEratosthenes\obj\Debug\netcoreapp2.0\SieveEratosthenes.pdb

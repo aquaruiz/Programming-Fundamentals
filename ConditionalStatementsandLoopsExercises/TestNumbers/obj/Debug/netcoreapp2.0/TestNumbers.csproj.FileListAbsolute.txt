@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\bin\Debug\netcoreapp2.0\TestNumbers.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\TestNumbers\obj\Debug\netcoreapp2.0\TestNumbers.pdb

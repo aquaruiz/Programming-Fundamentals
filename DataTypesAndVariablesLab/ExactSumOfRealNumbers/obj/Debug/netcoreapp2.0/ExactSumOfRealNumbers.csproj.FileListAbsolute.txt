@@ -1,0 +1,10 @@
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.deps.json
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.dll
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\ExactSumOfRealNumbers.pdb
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.dll
+D:\Repos\DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\ExactSumOfRealNumbers.pdb

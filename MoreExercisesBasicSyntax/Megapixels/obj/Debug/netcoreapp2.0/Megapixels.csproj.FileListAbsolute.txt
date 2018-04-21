@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.deps.json
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.runtimeconfig.json
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.runtimeconfig.dev.json
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.dll
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\bin\Debug\netcoreapp2.0\Megapixels.pdb
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.AssemblyInfo.cs
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.dll
+D:\Repos\MoreExercisesBasicSyntax\Megapixels\obj\Debug\netcoreapp2.0\Megapixels.pdb

@@ -1,0 +1,11 @@
+D:\Repos\WormsExam\WormIpsum\obj\Debug\netcoreapp2.0\WormIpsum.csprojResolveAssemblyReference.cache
+D:\Repos\WormsExam\WormIpsum\obj\Debug\netcoreapp2.0\WormIpsum.csproj.CoreCompileInputs.cache
+D:\Repos\WormsExam\WormIpsum\obj\Debug\netcoreapp2.0\WormIpsum.AssemblyInfoInputs.cache
+D:\Repos\WormsExam\WormIpsum\obj\Debug\netcoreapp2.0\WormIpsum.AssemblyInfo.cs
+D:\Repos\WormsExam\WormIpsum\bin\Debug\netcoreapp2.0\WormIpsum.deps.json
+D:\Repos\WormsExam\WormIpsum\bin\Debug\netcoreapp2.0\WormIpsum.runtimeconfig.json
+D:\Repos\WormsExam\WormIpsum\bin\Debug\netcoreapp2.0\WormIpsum.runtimeconfig.dev.json
+D:\Repos\WormsExam\WormIpsum\bin\Debug\netcoreapp2.0\WormIpsum.dll
+D:\Repos\WormsExam\WormIpsum\bin\Debug\netcoreapp2.0\WormIpsum.pdb
+D:\Repos\WormsExam\WormIpsum\obj\Debug\netcoreapp2.0\WormIpsum.dll
+D:\Repos\WormsExam\WormIpsum\obj\Debug\netcoreapp2.0\WormIpsum.pdb

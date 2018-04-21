@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.deps.json
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.runtimeconfig.json
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.runtimeconfig.dev.json
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.dll
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.pdb
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.AssemblyInfo.cs
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.dll
+D:\Repos\MoreExercisesArraysAndMethods\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.pdb

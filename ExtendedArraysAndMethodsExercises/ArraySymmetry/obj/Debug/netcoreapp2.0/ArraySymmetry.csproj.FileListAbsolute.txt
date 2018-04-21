@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\bin\Debug\netcoreapp2.0\ArraySymmetry.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\bin\Debug\netcoreapp2.0\ArraySymmetry.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\bin\Debug\netcoreapp2.0\ArraySymmetry.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\bin\Debug\netcoreapp2.0\ArraySymmetry.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\bin\Debug\netcoreapp2.0\ArraySymmetry.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\obj\Debug\netcoreapp2.0\ArraySymmetry.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\obj\Debug\netcoreapp2.0\ArraySymmetry.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\obj\Debug\netcoreapp2.0\ArraySymmetry.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\obj\Debug\netcoreapp2.0\ArraySymmetry.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\obj\Debug\netcoreapp2.0\ArraySymmetry.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\ArraySymmetry\obj\Debug\netcoreapp2.0\ArraySymmetry.pdb

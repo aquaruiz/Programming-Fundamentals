@@ -1,0 +1,11 @@
+D:\Repos\ListsExercises\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.deps.json
+D:\Repos\ListsExercises\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.runtimeconfig.json
+D:\Repos\ListsExercises\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.runtimeconfig.dev.json
+D:\Repos\ListsExercises\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.dll
+D:\Repos\ListsExercises\SumReversedNumbers\bin\Debug\netcoreapp2.0\SumReversedNumbers.pdb
+D:\Repos\ListsExercises\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.csprojResolveAssemblyReference.cache
+D:\Repos\ListsExercises\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\ListsExercises\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.AssemblyInfoInputs.cache
+D:\Repos\ListsExercises\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.AssemblyInfo.cs
+D:\Repos\ListsExercises\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.dll
+D:\Repos\ListsExercises\SumReversedNumbers\obj\Debug\netcoreapp2.0\SumReversedNumbers.pdb

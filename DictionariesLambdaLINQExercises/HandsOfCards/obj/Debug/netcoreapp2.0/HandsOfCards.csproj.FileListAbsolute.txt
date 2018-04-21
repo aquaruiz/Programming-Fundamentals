@@ -1,0 +1,11 @@
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.deps.json
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.runtimeconfig.json
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.runtimeconfig.dev.json
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.dll
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.pdb
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.csprojResolveAssemblyReference.cache
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.csproj.CoreCompileInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.AssemblyInfoInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.AssemblyInfo.cs
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.dll
+D:\Repos\DictionariesLambdaLINQExercises\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.pdb

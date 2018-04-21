@@ -1,0 +1,11 @@
+D:\Repos\ArraysExercises\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysExercises\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysExercises\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.AssemblyInfoInputs.cache
+D:\Repos\ArraysExercises\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.AssemblyInfo.cs
+D:\Repos\ArraysExercises\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.deps.json
+D:\Repos\ArraysExercises\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.runtimeconfig.json
+D:\Repos\ArraysExercises\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.runtimeconfig.dev.json
+D:\Repos\ArraysExercises\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.dll
+D:\Repos\ArraysExercises\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.pdb
+D:\Repos\ArraysExercises\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.dll
+D:\Repos\ArraysExercises\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.pdb

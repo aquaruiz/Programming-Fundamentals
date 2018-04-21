@@ -1,0 +1,10 @@
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.deps.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.runtimeconfig.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.runtimeconfig.dev.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.dll
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\bin\Debug\netcoreapp2.0\Employee Data.pdb
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.AssemblyInfoInputs.cache
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.AssemblyInfo.cs
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.dll
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Employee Data\obj\Debug\netcoreapp2.0\Employee Data.pdb

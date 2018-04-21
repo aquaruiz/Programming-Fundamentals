@@ -1,0 +1,11 @@
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\LastKNumbersSumsSequence.deps.json
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\LastKNumbersSumsSequence.runtimeconfig.json
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\LastKNumbersSumsSequence.runtimeconfig.dev.json
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\LastKNumbersSumsSequence.dll
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\LastKNumbersSumsSequence.pdb
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\LastKNumbersSumsSequence.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\LastKNumbersSumsSequence.AssemblyInfoInputs.cache
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\LastKNumbersSumsSequence.AssemblyInfo.cs
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\LastKNumbersSumsSequence.dll
+D:\Repos\ArraysLab\LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\LastKNumbersSumsSequence.pdb

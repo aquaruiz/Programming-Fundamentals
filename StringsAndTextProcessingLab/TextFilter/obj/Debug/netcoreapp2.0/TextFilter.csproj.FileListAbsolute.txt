@@ -1,0 +1,11 @@
+D:\Repos\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.deps.json
+D:\Repos\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.dll
+D:\Repos\StringsAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.0\TextFilter.pdb
+D:\Repos\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.csprojResolveAssemblyReference.cache
+D:\Repos\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.dll
+D:\Repos\StringsAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.0\TextFilter.pdb

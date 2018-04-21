@@ -1,0 +1,10 @@
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.deps.json
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.dll
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.pdb
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.dll
+D:\Repos\StringsAndTextProcessingExercises\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.pdb

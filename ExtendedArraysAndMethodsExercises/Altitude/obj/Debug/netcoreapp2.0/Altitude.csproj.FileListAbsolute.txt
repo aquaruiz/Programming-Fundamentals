@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\obj\Debug\netcoreapp2.0\Altitude.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\obj\Debug\netcoreapp2.0\Altitude.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\obj\Debug\netcoreapp2.0\Altitude.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\obj\Debug\netcoreapp2.0\Altitude.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\bin\Debug\netcoreapp2.0\Altitude.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\bin\Debug\netcoreapp2.0\Altitude.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\bin\Debug\netcoreapp2.0\Altitude.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\bin\Debug\netcoreapp2.0\Altitude.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\bin\Debug\netcoreapp2.0\Altitude.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\obj\Debug\netcoreapp2.0\Altitude.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\Altitude\obj\Debug\netcoreapp2.0\Altitude.pdb

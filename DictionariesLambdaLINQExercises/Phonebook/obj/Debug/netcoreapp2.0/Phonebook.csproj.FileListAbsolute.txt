@@ -1,0 +1,11 @@
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojResolveAssemblyReference.cache
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\Repos\DictionariesLambdaLINQExercises\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb

@@ -1,0 +1,11 @@
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.deps.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.runtimeconfig.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.runtimeconfig.dev.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.dll
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.pdb
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.csprojResolveAssemblyReference.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.csproj.CoreCompileInputs.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.AssemblyInfoInputs.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.AssemblyInfo.cs
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.dll
+D:\C# Solutions\ExtendedStringsAndRegexExercises\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.pdb

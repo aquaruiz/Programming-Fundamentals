@@ -1,0 +1,11 @@
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\bin\Debug\netcoreapp2.0\CharRotation.deps.json
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\bin\Debug\netcoreapp2.0\CharRotation.runtimeconfig.json
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\bin\Debug\netcoreapp2.0\CharRotation.runtimeconfig.dev.json
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\bin\Debug\netcoreapp2.0\CharRotation.dll
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\bin\Debug\netcoreapp2.0\CharRotation.pdb
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\obj\Debug\netcoreapp2.0\CharRotation.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\obj\Debug\netcoreapp2.0\CharRotation.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\obj\Debug\netcoreapp2.0\CharRotation.AssemblyInfoInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\obj\Debug\netcoreapp2.0\CharRotation.AssemblyInfo.cs
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\obj\Debug\netcoreapp2.0\CharRotation.dll
+D:\Repos\ExtendedMoreExcersisesArrays\CharRotation\obj\Debug\netcoreapp2.0\CharRotation.pdb

@@ -1,0 +1,11 @@
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.deps.json
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.runtimeconfig.json
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.runtimeconfig.dev.json
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.dll
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.pdb
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.csprojResolveAssemblyReference.cache
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.csproj.CoreCompileInputs.cache
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.AssemblyInfoInputs.cache
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.AssemblyInfo.cs
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.dll
+D:\Repos\DictionariesLambdaAndLINQLab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.pdb

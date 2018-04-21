@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.deps.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.runtimeconfig.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.dll
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\bin\Debug\netcoreapp2.0\HornetAssault.pdb
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.AssemblyInfo.cs
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.dll
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\HornetAssault\obj\Debug\netcoreapp2.0\HornetAssault.pdb

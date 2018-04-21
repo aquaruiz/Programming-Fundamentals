@@ -1,0 +1,10 @@
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.deps.json
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.dll
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.pdb
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.dll
+D:\Repos\DataTypesAndVariablesLab\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.pdb

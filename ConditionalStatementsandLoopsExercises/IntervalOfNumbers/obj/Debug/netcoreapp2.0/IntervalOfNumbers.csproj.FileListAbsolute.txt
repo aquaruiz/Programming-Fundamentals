@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\bin\Debug\netcoreapp2.0\IntervalOfNumbers.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\bin\Debug\netcoreapp2.0\IntervalOfNumbers.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\bin\Debug\netcoreapp2.0\IntervalOfNumbers.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\bin\Debug\netcoreapp2.0\IntervalOfNumbers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\bin\Debug\netcoreapp2.0\IntervalOfNumbers.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\obj\Debug\netcoreapp2.0\IntervalOfNumbers.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\obj\Debug\netcoreapp2.0\IntervalOfNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\obj\Debug\netcoreapp2.0\IntervalOfNumbers.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\obj\Debug\netcoreapp2.0\IntervalOfNumbers.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\obj\Debug\netcoreapp2.0\IntervalOfNumbers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\IntervalOfNumbers\obj\Debug\netcoreapp2.0\IntervalOfNumbers.pdb

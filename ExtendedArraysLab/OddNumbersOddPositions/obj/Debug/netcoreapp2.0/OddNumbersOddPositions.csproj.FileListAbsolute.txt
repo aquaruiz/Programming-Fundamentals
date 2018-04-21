@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\bin\Debug\netcoreapp2.0\OddNumbersOddPositions.deps.json
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\bin\Debug\netcoreapp2.0\OddNumbersOddPositions.runtimeconfig.json
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\bin\Debug\netcoreapp2.0\OddNumbersOddPositions.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\bin\Debug\netcoreapp2.0\OddNumbersOddPositions.dll
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\bin\Debug\netcoreapp2.0\OddNumbersOddPositions.pdb
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\obj\Debug\netcoreapp2.0\OddNumbersOddPositions.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\obj\Debug\netcoreapp2.0\OddNumbersOddPositions.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\obj\Debug\netcoreapp2.0\OddNumbersOddPositions.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\obj\Debug\netcoreapp2.0\OddNumbersOddPositions.AssemblyInfo.cs
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\obj\Debug\netcoreapp2.0\OddNumbersOddPositions.dll
+D:\Repos\ExtendedArraysLab\OddNumbersOddPositions\obj\Debug\netcoreapp2.0\OddNumbersOddPositions.pdb

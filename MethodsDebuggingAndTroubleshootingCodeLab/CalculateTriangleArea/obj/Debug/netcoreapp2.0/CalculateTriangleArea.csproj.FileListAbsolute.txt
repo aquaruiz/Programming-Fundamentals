@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.pdb

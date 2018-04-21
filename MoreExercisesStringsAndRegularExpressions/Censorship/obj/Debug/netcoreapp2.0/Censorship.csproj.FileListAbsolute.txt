@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\bin\Debug\netcoreapp2.0\Censorship.deps.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\bin\Debug\netcoreapp2.0\Censorship.runtimeconfig.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\bin\Debug\netcoreapp2.0\Censorship.runtimeconfig.dev.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\bin\Debug\netcoreapp2.0\Censorship.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\bin\Debug\netcoreapp2.0\Censorship.pdb
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\obj\Debug\netcoreapp2.0\Censorship.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\obj\Debug\netcoreapp2.0\Censorship.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\obj\Debug\netcoreapp2.0\Censorship.AssemblyInfo.cs
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\obj\Debug\netcoreapp2.0\Censorship.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\obj\Debug\netcoreapp2.0\Censorship.pdb
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Censorship\obj\Debug\netcoreapp2.0\Censorship.csprojResolveAssemblyReference.cache

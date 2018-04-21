@@ -1,0 +1,11 @@
+D:\Repos\ListsLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.deps.json
+D:\Repos\ListsLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.runtimeconfig.json
+D:\Repos\ListsLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.runtimeconfig.dev.json
+D:\Repos\ListsLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.dll
+D:\Repos\ListsLab\AppendLists\bin\Debug\netcoreapp2.0\AppendLists.pdb
+D:\Repos\ListsLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.csprojResolveAssemblyReference.cache
+D:\Repos\ListsLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.csproj.CoreCompileInputs.cache
+D:\Repos\ListsLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.AssemblyInfoInputs.cache
+D:\Repos\ListsLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.AssemblyInfo.cs
+D:\Repos\ListsLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.dll
+D:\Repos\ListsLab\AppendLists\obj\Debug\netcoreapp2.0\AppendLists.pdb

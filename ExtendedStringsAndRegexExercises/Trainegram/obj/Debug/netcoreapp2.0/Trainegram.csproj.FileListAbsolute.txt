@@ -1,0 +1,11 @@
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\bin\Debug\netcoreapp2.0\Trainegram.deps.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\bin\Debug\netcoreapp2.0\Trainegram.runtimeconfig.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\bin\Debug\netcoreapp2.0\Trainegram.runtimeconfig.dev.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\bin\Debug\netcoreapp2.0\Trainegram.dll
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\bin\Debug\netcoreapp2.0\Trainegram.pdb
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\obj\Debug\netcoreapp2.0\Trainegram.csprojResolveAssemblyReference.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\obj\Debug\netcoreapp2.0\Trainegram.csproj.CoreCompileInputs.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\obj\Debug\netcoreapp2.0\Trainegram.AssemblyInfoInputs.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\obj\Debug\netcoreapp2.0\Trainegram.AssemblyInfo.cs
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\obj\Debug\netcoreapp2.0\Trainegram.dll
+D:\C# Solutions\ExtendedStringsAndRegexExercises\Trainegram\obj\Debug\netcoreapp2.0\Trainegram.pdb

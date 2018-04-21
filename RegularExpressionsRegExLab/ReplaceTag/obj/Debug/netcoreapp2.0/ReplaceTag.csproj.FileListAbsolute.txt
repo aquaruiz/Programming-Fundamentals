@@ -1,0 +1,11 @@
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\bin\Debug\netcoreapp2.0\ReplaceTag.deps.json
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\bin\Debug\netcoreapp2.0\ReplaceTag.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\bin\Debug\netcoreapp2.0\ReplaceTag.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\bin\Debug\netcoreapp2.0\ReplaceTag.dll
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\bin\Debug\netcoreapp2.0\ReplaceTag.pdb
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\obj\Debug\netcoreapp2.0\ReplaceTag.csprojResolveAssemblyReference.cache
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\obj\Debug\netcoreapp2.0\ReplaceTag.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\obj\Debug\netcoreapp2.0\ReplaceTag.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\obj\Debug\netcoreapp2.0\ReplaceTag.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\obj\Debug\netcoreapp2.0\ReplaceTag.dll
+D:\Repos\RegularExpressionsRegExLab\ReplaceTag\obj\Debug\netcoreapp2.0\ReplaceTag.pdb

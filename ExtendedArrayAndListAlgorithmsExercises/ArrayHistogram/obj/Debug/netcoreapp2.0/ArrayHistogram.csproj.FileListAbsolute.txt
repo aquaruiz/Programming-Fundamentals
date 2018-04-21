@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\netcoreapp2.0\ArrayHistogram.deps.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\netcoreapp2.0\ArrayHistogram.runtimeconfig.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\netcoreapp2.0\ArrayHistogram.runtimeconfig.dev.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\netcoreapp2.0\ArrayHistogram.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\bin\Debug\netcoreapp2.0\ArrayHistogram.pdb
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\netcoreapp2.0\ArrayHistogram.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\netcoreapp2.0\ArrayHistogram.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\netcoreapp2.0\ArrayHistogram.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\netcoreapp2.0\ArrayHistogram.AssemblyInfo.cs
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\netcoreapp2.0\ArrayHistogram.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ArrayHistogram\obj\Debug\netcoreapp2.0\ArrayHistogram.pdb

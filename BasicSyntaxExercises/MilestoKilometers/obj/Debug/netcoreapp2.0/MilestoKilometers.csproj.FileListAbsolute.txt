@@ -1,0 +1,10 @@
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\bin\Debug\netcoreapp2.0\MilestoKilometers.deps.json
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\bin\Debug\netcoreapp2.0\MilestoKilometers.runtimeconfig.json
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\bin\Debug\netcoreapp2.0\MilestoKilometers.runtimeconfig.dev.json
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\bin\Debug\netcoreapp2.0\MilestoKilometers.dll
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\bin\Debug\netcoreapp2.0\MilestoKilometers.pdb
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\obj\Debug\netcoreapp2.0\MilestoKilometers.csproj.CoreCompileInputs.cache
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\obj\Debug\netcoreapp2.0\MilestoKilometers.AssemblyInfoInputs.cache
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\obj\Debug\netcoreapp2.0\MilestoKilometers.AssemblyInfo.cs
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\obj\Debug\netcoreapp2.0\MilestoKilometers.dll
+D:\Repos\BasicSyntaxExercises\MilestoKilometers\obj\Debug\netcoreapp2.0\MilestoKilometers.pdb

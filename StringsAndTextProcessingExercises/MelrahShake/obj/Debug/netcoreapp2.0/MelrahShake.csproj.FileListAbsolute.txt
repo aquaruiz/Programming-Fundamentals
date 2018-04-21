@@ -1,0 +1,10 @@
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.deps.json
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.dll
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\bin\Debug\netcoreapp2.0\MelrahShake.pdb
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.dll
+D:\Repos\StringsAndTextProcessingExercises\MelrahShake\obj\Debug\netcoreapp2.0\MelrahShake.pdb

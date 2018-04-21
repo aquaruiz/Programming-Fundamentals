@@ -1,0 +1,11 @@
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\Repos\ExtendedMoreExcersisesArrays\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb

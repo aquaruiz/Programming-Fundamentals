@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.deps.json
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.dll
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.pdb
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.dll
+D:\Repos\DataTypesAndVariablesExercices\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.pdb

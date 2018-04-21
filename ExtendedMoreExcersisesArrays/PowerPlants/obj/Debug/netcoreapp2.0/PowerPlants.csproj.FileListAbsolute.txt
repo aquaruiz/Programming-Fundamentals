@@ -1,0 +1,11 @@
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\bin\Debug\netcoreapp2.0\PowerPlants.deps.json
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\bin\Debug\netcoreapp2.0\PowerPlants.runtimeconfig.json
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\bin\Debug\netcoreapp2.0\PowerPlants.runtimeconfig.dev.json
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\bin\Debug\netcoreapp2.0\PowerPlants.dll
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\bin\Debug\netcoreapp2.0\PowerPlants.pdb
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\obj\Debug\netcoreapp2.0\PowerPlants.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\obj\Debug\netcoreapp2.0\PowerPlants.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\obj\Debug\netcoreapp2.0\PowerPlants.AssemblyInfoInputs.cache
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\obj\Debug\netcoreapp2.0\PowerPlants.AssemblyInfo.cs
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\obj\Debug\netcoreapp2.0\PowerPlants.dll
+D:\Repos\ExtendedMoreExcersisesArrays\PowerPlants\obj\Debug\netcoreapp2.0\PowerPlants.pdb

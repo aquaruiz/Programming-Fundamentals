@@ -1,0 +1,11 @@
+D:\Repos\RegularExpressionsRegExExercises\Cards\bin\Debug\netcoreapp2.0\Cards.deps.json
+D:\Repos\RegularExpressionsRegExExercises\Cards\bin\Debug\netcoreapp2.0\Cards.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExExercises\Cards\bin\Debug\netcoreapp2.0\Cards.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExExercises\Cards\bin\Debug\netcoreapp2.0\Cards.dll
+D:\Repos\RegularExpressionsRegExExercises\Cards\bin\Debug\netcoreapp2.0\Cards.pdb
+D:\Repos\RegularExpressionsRegExExercises\Cards\obj\Debug\netcoreapp2.0\Cards.csprojResolveAssemblyReference.cache
+D:\Repos\RegularExpressionsRegExExercises\Cards\obj\Debug\netcoreapp2.0\Cards.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\Cards\obj\Debug\netcoreapp2.0\Cards.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\Cards\obj\Debug\netcoreapp2.0\Cards.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExExercises\Cards\obj\Debug\netcoreapp2.0\Cards.dll
+D:\Repos\RegularExpressionsRegExExercises\Cards\obj\Debug\netcoreapp2.0\Cards.pdb

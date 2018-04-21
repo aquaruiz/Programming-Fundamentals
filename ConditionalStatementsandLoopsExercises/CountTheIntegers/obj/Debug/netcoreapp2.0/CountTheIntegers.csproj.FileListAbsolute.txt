@@ -1,0 +1,10 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\bin\Debug\netcoreapp2.0\CountTheIntegers.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\CountTheIntegers\obj\Debug\netcoreapp2.0\CountTheIntegers.pdb

@@ -1,0 +1,11 @@
+D:\Repos\Loops\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.deps.json
+D:\Repos\Loops\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.runtimeconfig.json
+D:\Repos\Loops\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.runtimeconfig.dev.json
+D:\Repos\Loops\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.dll
+D:\Repos\Loops\Butterfly\bin\Debug\netcoreapp2.0\Butterfly.pdb
+D:\Repos\Loops\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.csproj.CoreCompileInputs.cache
+D:\Repos\Loops\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.AssemblyInfoInputs.cache
+D:\Repos\Loops\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.AssemblyInfo.cs
+D:\Repos\Loops\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.dll
+D:\Repos\Loops\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.pdb
+D:\Repos\Loops\Butterfly\obj\Debug\netcoreapp2.0\Butterfly.csprojResolveAssemblyReference.cache

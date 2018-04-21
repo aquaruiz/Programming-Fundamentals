@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.deps.json
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.runtimeconfig.json
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.runtimeconfig.dev.json
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.dll
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.pdb
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.AssemblyInfo.cs
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.dll
+D:\Repos\MoreExercisesArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.pdb

@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\bin\Debug\netcoreapp2.0\BallisticsTraining.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\bin\Debug\netcoreapp2.0\BallisticsTraining.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\bin\Debug\netcoreapp2.0\BallisticsTraining.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\bin\Debug\netcoreapp2.0\BallisticsTraining.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\bin\Debug\netcoreapp2.0\BallisticsTraining.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\obj\Debug\netcoreapp2.0\BallisticsTraining.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\obj\Debug\netcoreapp2.0\BallisticsTraining.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\obj\Debug\netcoreapp2.0\BallisticsTraining.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\obj\Debug\netcoreapp2.0\BallisticsTraining.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\obj\Debug\netcoreapp2.0\BallisticsTraining.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\BallisticsTraining\obj\Debug\netcoreapp2.0\BallisticsTraining.pdb

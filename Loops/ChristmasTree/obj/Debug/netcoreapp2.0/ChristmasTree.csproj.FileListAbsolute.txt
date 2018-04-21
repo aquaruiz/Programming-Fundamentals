@@ -1,0 +1,10 @@
+D:\Repos\Loops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.deps.json
+D:\Repos\Loops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.runtimeconfig.json
+D:\Repos\Loops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.runtimeconfig.dev.json
+D:\Repos\Loops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.dll
+D:\Repos\Loops\ChristmasTree\bin\Debug\netcoreapp2.0\ChristmasTree.pdb
+D:\Repos\Loops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.csproj.CoreCompileInputs.cache
+D:\Repos\Loops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.AssemblyInfoInputs.cache
+D:\Repos\Loops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.AssemblyInfo.cs
+D:\Repos\Loops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.dll
+D:\Repos\Loops\ChristmasTree\obj\Debug\netcoreapp2.0\ChristmasTree.pdb

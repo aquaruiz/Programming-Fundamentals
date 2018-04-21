@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\bin\Debug\netcoreapp2.0\DebugTriangleFormations.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\bin\Debug\netcoreapp2.0\DebugTriangleFormations.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\bin\Debug\netcoreapp2.0\DebugTriangleFormations.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\bin\Debug\netcoreapp2.0\DebugTriangleFormations.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\bin\Debug\netcoreapp2.0\DebugTriangleFormations.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\obj\Debug\netcoreapp2.0\DebugTriangleFormations.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\obj\Debug\netcoreapp2.0\DebugTriangleFormations.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\obj\Debug\netcoreapp2.0\DebugTriangleFormations.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\obj\Debug\netcoreapp2.0\DebugTriangleFormations.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\obj\Debug\netcoreapp2.0\DebugTriangleFormations.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTriangleFormations\obj\Debug\netcoreapp2.0\DebugTriangleFormations.pdb

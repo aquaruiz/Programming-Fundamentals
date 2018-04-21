@@ -1,0 +1,11 @@
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.deps.json
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.dll
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.pdb
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.dll
+D:\Repos\RegularExpressionsRegExExercises\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.pdb

@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\bin\Debug\netcoreapp2.0\BoatSimulator.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\bin\Debug\netcoreapp2.0\BoatSimulator.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\bin\Debug\netcoreapp2.0\BoatSimulator.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\bin\Debug\netcoreapp2.0\BoatSimulator.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\bin\Debug\netcoreapp2.0\BoatSimulator.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\obj\Debug\netcoreapp2.0\BoatSimulator.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\obj\Debug\netcoreapp2.0\BoatSimulator.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\obj\Debug\netcoreapp2.0\BoatSimulator.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\obj\Debug\netcoreapp2.0\BoatSimulator.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\BoatSimulator\obj\Debug\netcoreapp2.0\BoatSimulator.pdb

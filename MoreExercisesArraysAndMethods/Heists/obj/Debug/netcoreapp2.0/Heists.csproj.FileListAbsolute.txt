@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesArraysAndMethods\Heists\bin\Debug\netcoreapp2.0\Heists.deps.json
+D:\Repos\MoreExercisesArraysAndMethods\Heists\bin\Debug\netcoreapp2.0\Heists.runtimeconfig.json
+D:\Repos\MoreExercisesArraysAndMethods\Heists\bin\Debug\netcoreapp2.0\Heists.runtimeconfig.dev.json
+D:\Repos\MoreExercisesArraysAndMethods\Heists\bin\Debug\netcoreapp2.0\Heists.dll
+D:\Repos\MoreExercisesArraysAndMethods\Heists\bin\Debug\netcoreapp2.0\Heists.pdb
+D:\Repos\MoreExercisesArraysAndMethods\Heists\obj\Debug\netcoreapp2.0\Heists.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesArraysAndMethods\Heists\obj\Debug\netcoreapp2.0\Heists.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\Heists\obj\Debug\netcoreapp2.0\Heists.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\Heists\obj\Debug\netcoreapp2.0\Heists.AssemblyInfo.cs
+D:\Repos\MoreExercisesArraysAndMethods\Heists\obj\Debug\netcoreapp2.0\Heists.dll
+D:\Repos\MoreExercisesArraysAndMethods\Heists\obj\Debug\netcoreapp2.0\Heists.pdb

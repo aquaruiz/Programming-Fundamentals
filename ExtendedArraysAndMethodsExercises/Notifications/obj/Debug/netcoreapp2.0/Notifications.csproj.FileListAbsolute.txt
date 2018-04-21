@@ -1,0 +1,10 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\obj\Debug\netcoreapp2.0\Notifications.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\obj\Debug\netcoreapp2.0\Notifications.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\obj\Debug\netcoreapp2.0\Notifications.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\bin\Debug\netcoreapp2.0\Notifications.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\bin\Debug\netcoreapp2.0\Notifications.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\bin\Debug\netcoreapp2.0\Notifications.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\bin\Debug\netcoreapp2.0\Notifications.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\bin\Debug\netcoreapp2.0\Notifications.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\obj\Debug\netcoreapp2.0\Notifications.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\Notifications\obj\Debug\netcoreapp2.0\Notifications.pdb

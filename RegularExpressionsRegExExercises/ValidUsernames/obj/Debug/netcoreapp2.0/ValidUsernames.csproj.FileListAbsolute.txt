@@ -1,0 +1,10 @@
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\bin\Debug\netcoreapp2.0\ValidUsernames.deps.json
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\bin\Debug\netcoreapp2.0\ValidUsernames.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\bin\Debug\netcoreapp2.0\ValidUsernames.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\bin\Debug\netcoreapp2.0\ValidUsernames.dll
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\bin\Debug\netcoreapp2.0\ValidUsernames.pdb
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\obj\Debug\netcoreapp2.0\ValidUsernames.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\obj\Debug\netcoreapp2.0\ValidUsernames.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\obj\Debug\netcoreapp2.0\ValidUsernames.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\obj\Debug\netcoreapp2.0\ValidUsernames.dll
+D:\Repos\RegularExpressionsRegExExercises\ValidUsernames\obj\Debug\netcoreapp2.0\ValidUsernames.pdb

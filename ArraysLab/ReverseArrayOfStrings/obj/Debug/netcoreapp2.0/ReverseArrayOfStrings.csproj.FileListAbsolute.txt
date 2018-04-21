@@ -1,0 +1,11 @@
+D:\Repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\ReverseArrayOfStrings.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\Repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\ReverseArrayOfStrings.AssemblyInfo.cs
+D:\Repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\ReverseArrayOfStrings.deps.json
+D:\Repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\ReverseArrayOfStrings.runtimeconfig.json
+D:\Repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\Repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\ReverseArrayOfStrings.dll
+D:\Repos\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\ReverseArrayOfStrings.pdb
+D:\Repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\ReverseArrayOfStrings.dll
+D:\Repos\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\ReverseArrayOfStrings.pdb

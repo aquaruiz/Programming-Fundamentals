@@ -1,0 +1,11 @@
+D:\Repos\Loops\NumberTable\bin\Debug\netcoreapp2.0\NumberTable.deps.json
+D:\Repos\Loops\NumberTable\bin\Debug\netcoreapp2.0\NumberTable.runtimeconfig.json
+D:\Repos\Loops\NumberTable\bin\Debug\netcoreapp2.0\NumberTable.runtimeconfig.dev.json
+D:\Repos\Loops\NumberTable\bin\Debug\netcoreapp2.0\NumberTable.dll
+D:\Repos\Loops\NumberTable\bin\Debug\netcoreapp2.0\NumberTable.pdb
+D:\Repos\Loops\NumberTable\obj\Debug\netcoreapp2.0\NumberTable.csprojResolveAssemblyReference.cache
+D:\Repos\Loops\NumberTable\obj\Debug\netcoreapp2.0\NumberTable.csproj.CoreCompileInputs.cache
+D:\Repos\Loops\NumberTable\obj\Debug\netcoreapp2.0\NumberTable.AssemblyInfoInputs.cache
+D:\Repos\Loops\NumberTable\obj\Debug\netcoreapp2.0\NumberTable.AssemblyInfo.cs
+D:\Repos\Loops\NumberTable\obj\Debug\netcoreapp2.0\NumberTable.dll
+D:\Repos\Loops\NumberTable\obj\Debug\netcoreapp2.0\NumberTable.pdb

@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\bin\Debug\netcoreapp2.0\Hideout.deps.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\bin\Debug\netcoreapp2.0\Hideout.runtimeconfig.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\bin\Debug\netcoreapp2.0\Hideout.runtimeconfig.dev.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\bin\Debug\netcoreapp2.0\Hideout.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\bin\Debug\netcoreapp2.0\Hideout.pdb
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\obj\Debug\netcoreapp2.0\Hideout.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\obj\Debug\netcoreapp2.0\Hideout.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\obj\Debug\netcoreapp2.0\Hideout.AssemblyInfo.cs
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\obj\Debug\netcoreapp2.0\Hideout.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Hideout\obj\Debug\netcoreapp2.0\Hideout.pdb

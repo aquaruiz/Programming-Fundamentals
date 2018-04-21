@@ -1,0 +1,11 @@
+D:\Repos\ExamPokemon\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.deps.json
+D:\Repos\ExamPokemon\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.json
+D:\Repos\ExamPokemon\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.dev.json
+D:\Repos\ExamPokemon\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.dll
+D:\Repos\ExamPokemon\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.pdb
+D:\Repos\ExamPokemon\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csprojResolveAssemblyReference.cache
+D:\Repos\ExamPokemon\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csproj.CoreCompileInputs.cache
+D:\Repos\ExamPokemon\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfoInputs.cache
+D:\Repos\ExamPokemon\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfo.cs
+D:\Repos\ExamPokemon\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.dll
+D:\Repos\ExamPokemon\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.pdb

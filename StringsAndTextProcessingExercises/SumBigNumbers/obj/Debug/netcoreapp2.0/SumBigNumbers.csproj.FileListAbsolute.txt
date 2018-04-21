@@ -1,0 +1,10 @@
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.deps.json
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.dll
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.pdb
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.dll
+D:\Repos\StringsAndTextProcessingExercises\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.pdb

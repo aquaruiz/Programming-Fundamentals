@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\netcoreapp2.0\HouseBuilder.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\netcoreapp2.0\HouseBuilder.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\netcoreapp2.0\HouseBuilder.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\netcoreapp2.0\HouseBuilder.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\bin\Debug\netcoreapp2.0\HouseBuilder.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\netcoreapp2.0\HouseBuilder.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\netcoreapp2.0\HouseBuilder.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\netcoreapp2.0\HouseBuilder.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\netcoreapp2.0\HouseBuilder.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\HouseBuilder\obj\Debug\netcoreapp2.0\HouseBuilder.pdb

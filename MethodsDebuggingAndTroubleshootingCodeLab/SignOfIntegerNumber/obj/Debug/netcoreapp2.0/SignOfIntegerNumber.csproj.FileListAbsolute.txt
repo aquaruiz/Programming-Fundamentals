@@ -1,0 +1,10 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb

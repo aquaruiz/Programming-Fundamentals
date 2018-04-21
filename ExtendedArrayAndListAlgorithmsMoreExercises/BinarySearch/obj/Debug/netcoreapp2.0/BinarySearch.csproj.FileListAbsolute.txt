@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.deps.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.runtimeconfig.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.runtimeconfig.dev.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.pdb
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.AssemblyInfo.cs
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.pdb

@@ -1,0 +1,11 @@
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.deps.json
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.dll
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.pdb
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.dll
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.pdb
+D:\Repos\StringsAndTextProcessingExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.csprojResolveAssemblyReference.cache

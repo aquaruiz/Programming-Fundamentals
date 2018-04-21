@@ -1,0 +1,10 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\bin\Debug\netcoreapp2.0\MagicLetter.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\MagicLetter\obj\Debug\netcoreapp2.0\MagicLetter.pdb

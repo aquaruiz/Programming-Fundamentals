@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.deps.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.runtimeconfig.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.runtimeconfig.dev.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.pdb
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.AssemblyInfo.cs
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.pdb

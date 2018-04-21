@@ -1,0 +1,10 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\bin\Debug\netcoreapp2.0\LargestElementInArray.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\bin\Debug\netcoreapp2.0\LargestElementInArray.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\bin\Debug\netcoreapp2.0\LargestElementInArray.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\bin\Debug\netcoreapp2.0\LargestElementInArray.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\bin\Debug\netcoreapp2.0\LargestElementInArray.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\obj\Debug\netcoreapp2.0\LargestElementInArray.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\obj\Debug\netcoreapp2.0\LargestElementInArray.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\obj\Debug\netcoreapp2.0\LargestElementInArray.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\obj\Debug\netcoreapp2.0\LargestElementInArray.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\LargestElementInArray\obj\Debug\netcoreapp2.0\LargestElementInArray.pdb

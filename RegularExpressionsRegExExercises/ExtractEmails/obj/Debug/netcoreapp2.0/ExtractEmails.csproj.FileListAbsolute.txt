@@ -1,0 +1,11 @@
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.deps.json
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.dll
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.pdb
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.dll
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.pdb
+D:\Repos\RegularExpressionsRegExExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.csprojResolveAssemblyReference.cache

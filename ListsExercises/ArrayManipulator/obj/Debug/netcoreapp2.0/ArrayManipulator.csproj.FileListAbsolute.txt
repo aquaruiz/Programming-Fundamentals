@@ -1,0 +1,11 @@
+D:\Repos\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.deps.json
+D:\Repos\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.runtimeconfig.json
+D:\Repos\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.runtimeconfig.dev.json
+D:\Repos\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.dll
+D:\Repos\ListsExercises\ArrayManipulator\bin\Debug\netcoreapp2.0\ArrayManipulator.pdb
+D:\Repos\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\Repos\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Repos\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.AssemblyInfoInputs.cache
+D:\Repos\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.AssemblyInfo.cs
+D:\Repos\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.dll
+D:\Repos\ListsExercises\ArrayManipulator\obj\Debug\netcoreapp2.0\ArrayManipulator.pdb

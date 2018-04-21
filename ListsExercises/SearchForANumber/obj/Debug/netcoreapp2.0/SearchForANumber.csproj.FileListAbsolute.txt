@@ -1,0 +1,11 @@
+D:\Repos\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.deps.json
+D:\Repos\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.runtimeconfig.json
+D:\Repos\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.runtimeconfig.dev.json
+D:\Repos\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.dll
+D:\Repos\ListsExercises\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.pdb
+D:\Repos\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.csprojResolveAssemblyReference.cache
+D:\Repos\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.csproj.CoreCompileInputs.cache
+D:\Repos\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.AssemblyInfoInputs.cache
+D:\Repos\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.AssemblyInfo.cs
+D:\Repos\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.dll
+D:\Repos\ListsExercises\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.pdb

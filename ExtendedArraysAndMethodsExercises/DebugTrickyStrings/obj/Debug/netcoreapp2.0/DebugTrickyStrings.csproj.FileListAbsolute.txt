@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\bin\Debug\netcoreapp2.0\DebugTrickyStrings.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\bin\Debug\netcoreapp2.0\DebugTrickyStrings.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\bin\Debug\netcoreapp2.0\DebugTrickyStrings.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\bin\Debug\netcoreapp2.0\DebugTrickyStrings.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\bin\Debug\netcoreapp2.0\DebugTrickyStrings.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\obj\Debug\netcoreapp2.0\DebugTrickyStrings.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\obj\Debug\netcoreapp2.0\DebugTrickyStrings.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\obj\Debug\netcoreapp2.0\DebugTrickyStrings.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\obj\Debug\netcoreapp2.0\DebugTrickyStrings.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\obj\Debug\netcoreapp2.0\DebugTrickyStrings.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTrickyStrings\obj\Debug\netcoreapp2.0\DebugTrickyStrings.pdb

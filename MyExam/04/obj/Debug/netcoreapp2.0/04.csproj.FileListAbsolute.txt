@@ -1,0 +1,11 @@
+D:\Repos\MyExam\04\bin\Debug\netcoreapp2.0\04.deps.json
+D:\Repos\MyExam\04\bin\Debug\netcoreapp2.0\04.runtimeconfig.json
+D:\Repos\MyExam\04\bin\Debug\netcoreapp2.0\04.runtimeconfig.dev.json
+D:\Repos\MyExam\04\bin\Debug\netcoreapp2.0\04.dll
+D:\Repos\MyExam\04\bin\Debug\netcoreapp2.0\04.pdb
+D:\Repos\MyExam\04\obj\Debug\netcoreapp2.0\04.csprojResolveAssemblyReference.cache
+D:\Repos\MyExam\04\obj\Debug\netcoreapp2.0\04.csproj.CoreCompileInputs.cache
+D:\Repos\MyExam\04\obj\Debug\netcoreapp2.0\04.AssemblyInfoInputs.cache
+D:\Repos\MyExam\04\obj\Debug\netcoreapp2.0\04.AssemblyInfo.cs
+D:\Repos\MyExam\04\obj\Debug\netcoreapp2.0\04.dll
+D:\Repos\MyExam\04\obj\Debug\netcoreapp2.0\04.pdb

@@ -1,0 +1,11 @@
+D:\Repos\ExtendedListsExercises\TearListInHalf\bin\Debug\netcoreapp2.0\TearListInHalf.deps.json
+D:\Repos\ExtendedListsExercises\TearListInHalf\bin\Debug\netcoreapp2.0\TearListInHalf.runtimeconfig.json
+D:\Repos\ExtendedListsExercises\TearListInHalf\bin\Debug\netcoreapp2.0\TearListInHalf.runtimeconfig.dev.json
+D:\Repos\ExtendedListsExercises\TearListInHalf\bin\Debug\netcoreapp2.0\TearListInHalf.dll
+D:\Repos\ExtendedListsExercises\TearListInHalf\bin\Debug\netcoreapp2.0\TearListInHalf.pdb
+D:\Repos\ExtendedListsExercises\TearListInHalf\obj\Debug\netcoreapp2.0\TearListInHalf.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedListsExercises\TearListInHalf\obj\Debug\netcoreapp2.0\TearListInHalf.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedListsExercises\TearListInHalf\obj\Debug\netcoreapp2.0\TearListInHalf.AssemblyInfoInputs.cache
+D:\Repos\ExtendedListsExercises\TearListInHalf\obj\Debug\netcoreapp2.0\TearListInHalf.AssemblyInfo.cs
+D:\Repos\ExtendedListsExercises\TearListInHalf\obj\Debug\netcoreapp2.0\TearListInHalf.dll
+D:\Repos\ExtendedListsExercises\TearListInHalf\obj\Debug\netcoreapp2.0\TearListInHalf.pdb

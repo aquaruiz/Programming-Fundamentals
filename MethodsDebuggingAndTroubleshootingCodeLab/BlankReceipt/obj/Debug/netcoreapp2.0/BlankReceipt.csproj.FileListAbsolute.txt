@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.pdb

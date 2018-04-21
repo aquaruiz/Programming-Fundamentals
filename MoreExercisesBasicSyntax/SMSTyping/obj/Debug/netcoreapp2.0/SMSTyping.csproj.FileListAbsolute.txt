@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\bin\Debug\netcoreapp2.0\SMSTyping.deps.json
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\bin\Debug\netcoreapp2.0\SMSTyping.runtimeconfig.json
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\bin\Debug\netcoreapp2.0\SMSTyping.runtimeconfig.dev.json
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\bin\Debug\netcoreapp2.0\SMSTyping.dll
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\bin\Debug\netcoreapp2.0\SMSTyping.pdb
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\obj\Debug\netcoreapp2.0\SMSTyping.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\obj\Debug\netcoreapp2.0\SMSTyping.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\obj\Debug\netcoreapp2.0\SMSTyping.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\obj\Debug\netcoreapp2.0\SMSTyping.AssemblyInfo.cs
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\obj\Debug\netcoreapp2.0\SMSTyping.dll
+D:\Repos\MoreExercisesBasicSyntax\SMSTyping\obj\Debug\netcoreapp2.0\SMSTyping.pdb

@@ -1,0 +1,10 @@
+D:\Repos\ListsLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\ListsLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.AssemblyInfoInputs.cache
+D:\Repos\ListsLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.AssemblyInfo.cs
+D:\Repos\ListsLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.deps.json
+D:\Repos\ListsLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.runtimeconfig.json
+D:\Repos\ListsLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.runtimeconfig.dev.json
+D:\Repos\ListsLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.dll
+D:\Repos\ListsLab\CountNumbers\bin\Debug\netcoreapp2.0\CountNumbers.pdb
+D:\Repos\ListsLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.dll
+D:\Repos\ListsLab\CountNumbers\obj\Debug\netcoreapp2.0\CountNumbers.pdb

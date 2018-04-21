@@ -1,0 +1,10 @@
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\bin\Debug\netcoreapp2.0\Add Two Numbers.deps.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\bin\Debug\netcoreapp2.0\Add Two Numbers.runtimeconfig.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\bin\Debug\netcoreapp2.0\Add Two Numbers.runtimeconfig.dev.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\bin\Debug\netcoreapp2.0\Add Two Numbers.dll
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\bin\Debug\netcoreapp2.0\Add Two Numbers.pdb
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\obj\Debug\netcoreapp2.0\Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\obj\Debug\netcoreapp2.0\Add Two Numbers.AssemblyInfoInputs.cache
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\obj\Debug\netcoreapp2.0\Add Two Numbers.AssemblyInfo.cs
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\obj\Debug\netcoreapp2.0\Add Two Numbers.dll
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Add Two Numbers\obj\Debug\netcoreapp2.0\Add Two Numbers.pdb

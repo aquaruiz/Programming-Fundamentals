@@ -1,0 +1,11 @@
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.deps.json
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.runtimeconfig.json
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.runtimeconfig.dev.json
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.dll
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.pdb
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.csprojResolveAssemblyReference.cache
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.csproj.CoreCompileInputs.cache
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.AssemblyInfoInputs.cache
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.AssemblyInfo.cs
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.dll
+D:\C# Solutions\ExtendedDictionariesLINQExercises\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.pdb

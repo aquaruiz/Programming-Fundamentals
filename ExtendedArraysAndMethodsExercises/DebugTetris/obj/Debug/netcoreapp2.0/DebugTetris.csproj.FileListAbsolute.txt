@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\bin\Debug\netcoreapp2.0\DebugTetris.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\bin\Debug\netcoreapp2.0\DebugTetris.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\bin\Debug\netcoreapp2.0\DebugTetris.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\bin\Debug\netcoreapp2.0\DebugTetris.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\bin\Debug\netcoreapp2.0\DebugTetris.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\obj\Debug\netcoreapp2.0\DebugTetris.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\obj\Debug\netcoreapp2.0\DebugTetris.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\obj\Debug\netcoreapp2.0\DebugTetris.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\obj\Debug\netcoreapp2.0\DebugTetris.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\obj\Debug\netcoreapp2.0\DebugTetris.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\DebugTetris\obj\Debug\netcoreapp2.0\DebugTetris.pdb

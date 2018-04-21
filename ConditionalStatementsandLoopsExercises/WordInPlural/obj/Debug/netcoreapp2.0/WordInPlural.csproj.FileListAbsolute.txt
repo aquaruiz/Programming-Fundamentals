@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\bin\Debug\netcoreapp2.0\WordInPlural.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\WordInPlural\obj\Debug\netcoreapp2.0\WordInPlural.pdb

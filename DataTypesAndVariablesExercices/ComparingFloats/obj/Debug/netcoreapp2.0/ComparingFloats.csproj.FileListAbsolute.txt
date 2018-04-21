@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.deps.json
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.dll
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.pdb
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.dll
+D:\Repos\DataTypesAndVariablesExercices\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.pdb

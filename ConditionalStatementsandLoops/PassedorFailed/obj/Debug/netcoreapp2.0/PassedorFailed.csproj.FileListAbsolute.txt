@@ -1,0 +1,10 @@
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\bin\Debug\netcoreapp2.0\PassedorFailed.deps.json
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\bin\Debug\netcoreapp2.0\PassedorFailed.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\bin\Debug\netcoreapp2.0\PassedorFailed.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\bin\Debug\netcoreapp2.0\PassedorFailed.dll
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\bin\Debug\netcoreapp2.0\PassedorFailed.pdb
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\obj\Debug\netcoreapp2.0\PassedorFailed.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\obj\Debug\netcoreapp2.0\PassedorFailed.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\obj\Debug\netcoreapp2.0\PassedorFailed.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\obj\Debug\netcoreapp2.0\PassedorFailed.dll
+D:\Repos\ConditionalStatementsandLoops\PassedorFailed\obj\Debug\netcoreapp2.0\PassedorFailed.pdb

@@ -1,0 +1,10 @@
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\netcoreapp2.0\SortArrayOfStrings.deps.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\netcoreapp2.0\SortArrayOfStrings.runtimeconfig.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\netcoreapp2.0\SortArrayOfStrings.runtimeconfig.dev.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\netcoreapp2.0\SortArrayOfStrings.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\bin\Debug\netcoreapp2.0\SortArrayOfStrings.pdb
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\obj\Debug\netcoreapp2.0\SortArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\obj\Debug\netcoreapp2.0\SortArrayOfStrings.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\obj\Debug\netcoreapp2.0\SortArrayOfStrings.AssemblyInfo.cs
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\obj\Debug\netcoreapp2.0\SortArrayOfStrings.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\SortArrayOfStrings\obj\Debug\netcoreapp2.0\SortArrayOfStrings.pdb

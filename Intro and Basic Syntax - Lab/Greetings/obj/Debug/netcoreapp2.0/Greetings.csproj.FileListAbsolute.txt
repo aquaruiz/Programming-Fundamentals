@@ -1,0 +1,10 @@
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\bin\Debug\netcoreapp2.0\Greetings.deps.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\bin\Debug\netcoreapp2.0\Greetings.runtimeconfig.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\bin\Debug\netcoreapp2.0\Greetings.runtimeconfig.dev.json
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\bin\Debug\netcoreapp2.0\Greetings.dll
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\bin\Debug\netcoreapp2.0\Greetings.pdb
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\obj\Debug\netcoreapp2.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\obj\Debug\netcoreapp2.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\obj\Debug\netcoreapp2.0\Greetings.AssemblyInfo.cs
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\obj\Debug\netcoreapp2.0\Greetings.dll
+C:\Users\Obache\source\repos\Intro and Basic Syntax - Lab\Greetings\obj\Debug\netcoreapp2.0\Greetings.pdb

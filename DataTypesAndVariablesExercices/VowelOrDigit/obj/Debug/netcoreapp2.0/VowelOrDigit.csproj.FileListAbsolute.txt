@@ -1,0 +1,10 @@
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.deps.json
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.dll
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.pdb
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.dll
+D:\Repos\DataTypesAndVariablesExercices\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.pdb

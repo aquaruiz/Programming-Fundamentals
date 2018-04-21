@@ -1,0 +1,10 @@
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.deps.json
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.runtimeconfig.json
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.runtimeconfig.dev.json
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.dll
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.pdb
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.AssemblyInfoInputs.cache
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.AssemblyInfo.cs
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.dll
+D:\Repos\ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.pdb

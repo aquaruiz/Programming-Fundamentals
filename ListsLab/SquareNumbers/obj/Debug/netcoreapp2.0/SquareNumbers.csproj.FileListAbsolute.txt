@@ -1,0 +1,10 @@
+D:\Repos\ListsLab\SquareNumbers\bin\Debug\netcoreapp2.0\SquareNumbers.deps.json
+D:\Repos\ListsLab\SquareNumbers\bin\Debug\netcoreapp2.0\SquareNumbers.runtimeconfig.json
+D:\Repos\ListsLab\SquareNumbers\bin\Debug\netcoreapp2.0\SquareNumbers.runtimeconfig.dev.json
+D:\Repos\ListsLab\SquareNumbers\bin\Debug\netcoreapp2.0\SquareNumbers.dll
+D:\Repos\ListsLab\SquareNumbers\bin\Debug\netcoreapp2.0\SquareNumbers.pdb
+D:\Repos\ListsLab\SquareNumbers\obj\Debug\netcoreapp2.0\SquareNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\ListsLab\SquareNumbers\obj\Debug\netcoreapp2.0\SquareNumbers.AssemblyInfoInputs.cache
+D:\Repos\ListsLab\SquareNumbers\obj\Debug\netcoreapp2.0\SquareNumbers.AssemblyInfo.cs
+D:\Repos\ListsLab\SquareNumbers\obj\Debug\netcoreapp2.0\SquareNumbers.dll
+D:\Repos\ListsLab\SquareNumbers\obj\Debug\netcoreapp2.0\SquareNumbers.pdb

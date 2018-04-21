@@ -1,0 +1,11 @@
+D:\Repos\Loops\GCD\bin\Debug\netcoreapp2.0\GCD.deps.json
+D:\Repos\Loops\GCD\bin\Debug\netcoreapp2.0\GCD.runtimeconfig.json
+D:\Repos\Loops\GCD\bin\Debug\netcoreapp2.0\GCD.runtimeconfig.dev.json
+D:\Repos\Loops\GCD\bin\Debug\netcoreapp2.0\GCD.dll
+D:\Repos\Loops\GCD\bin\Debug\netcoreapp2.0\GCD.pdb
+D:\Repos\Loops\GCD\obj\Debug\netcoreapp2.0\GCD.csprojResolveAssemblyReference.cache
+D:\Repos\Loops\GCD\obj\Debug\netcoreapp2.0\GCD.csproj.CoreCompileInputs.cache
+D:\Repos\Loops\GCD\obj\Debug\netcoreapp2.0\GCD.AssemblyInfoInputs.cache
+D:\Repos\Loops\GCD\obj\Debug\netcoreapp2.0\GCD.AssemblyInfo.cs
+D:\Repos\Loops\GCD\obj\Debug\netcoreapp2.0\GCD.dll
+D:\Repos\Loops\GCD\obj\Debug\netcoreapp2.0\GCD.pdb

@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\bin\Debug\netcoreapp2.0\TrainingHallEquipment.deps.json
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\bin\Debug\netcoreapp2.0\TrainingHallEquipment.runtimeconfig.json
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\bin\Debug\netcoreapp2.0\TrainingHallEquipment.runtimeconfig.dev.json
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\bin\Debug\netcoreapp2.0\TrainingHallEquipment.dll
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\bin\Debug\netcoreapp2.0\TrainingHallEquipment.pdb
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\obj\Debug\netcoreapp2.0\TrainingHallEquipment.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\obj\Debug\netcoreapp2.0\TrainingHallEquipment.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\obj\Debug\netcoreapp2.0\TrainingHallEquipment.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\obj\Debug\netcoreapp2.0\TrainingHallEquipment.AssemblyInfo.cs
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\obj\Debug\netcoreapp2.0\TrainingHallEquipment.dll
+D:\Repos\MoreExercisesBasicSyntax\TrainingHallEquipment\obj\Debug\netcoreapp2.0\TrainingHallEquipment.pdb

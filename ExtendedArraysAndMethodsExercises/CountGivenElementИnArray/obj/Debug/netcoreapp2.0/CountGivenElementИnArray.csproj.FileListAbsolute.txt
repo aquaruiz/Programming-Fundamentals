@@ -1,0 +1,10 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\bin\Debug\netcoreapp2.0\CountGivenElementИnArray.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\bin\Debug\netcoreapp2.0\CountGivenElementИnArray.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\bin\Debug\netcoreapp2.0\CountGivenElementИnArray.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\bin\Debug\netcoreapp2.0\CountGivenElementИnArray.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\bin\Debug\netcoreapp2.0\CountGivenElementИnArray.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\obj\Debug\netcoreapp2.0\CountGivenElementИnArray.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\obj\Debug\netcoreapp2.0\CountGivenElementИnArray.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\obj\Debug\netcoreapp2.0\CountGivenElementИnArray.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\obj\Debug\netcoreapp2.0\CountGivenElementИnArray.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\CountGivenElementИnArray\obj\Debug\netcoreapp2.0\CountGivenElementИnArray.pdb

@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesLab\Greeting\bin\Debug\netcoreapp2.0\Greeting.deps.json
+D:\Repos\DataTypesAndVariablesLab\Greeting\bin\Debug\netcoreapp2.0\Greeting.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesLab\Greeting\bin\Debug\netcoreapp2.0\Greeting.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesLab\Greeting\bin\Debug\netcoreapp2.0\Greeting.dll
+D:\Repos\DataTypesAndVariablesLab\Greeting\bin\Debug\netcoreapp2.0\Greeting.pdb
+D:\Repos\DataTypesAndVariablesLab\Greeting\obj\Debug\netcoreapp2.0\Greeting.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesLab\Greeting\obj\Debug\netcoreapp2.0\Greeting.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesLab\Greeting\obj\Debug\netcoreapp2.0\Greeting.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesLab\Greeting\obj\Debug\netcoreapp2.0\Greeting.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesLab\Greeting\obj\Debug\netcoreapp2.0\Greeting.dll
+D:\Repos\DataTypesAndVariablesLab\Greeting\obj\Debug\netcoreapp2.0\Greeting.pdb

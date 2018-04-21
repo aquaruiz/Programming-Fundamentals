@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\bin\Debug\netcoreapp2.0\TypeBoundaries.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\bin\Debug\netcoreapp2.0\TypeBoundaries.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\bin\Debug\netcoreapp2.0\TypeBoundaries.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\bin\Debug\netcoreapp2.0\TypeBoundaries.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\bin\Debug\netcoreapp2.0\TypeBoundaries.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\obj\Debug\netcoreapp2.0\TypeBoundaries.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\obj\Debug\netcoreapp2.0\TypeBoundaries.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\obj\Debug\netcoreapp2.0\TypeBoundaries.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\obj\Debug\netcoreapp2.0\TypeBoundaries.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\obj\Debug\netcoreapp2.0\TypeBoundaries.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\TypeBoundaries\obj\Debug\netcoreapp2.0\TypeBoundaries.pdb

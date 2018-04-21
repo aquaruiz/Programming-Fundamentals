@@ -1,0 +1,10 @@
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\bin\Debug\netcoreapp2.0\NthDigit.deps.json
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\bin\Debug\netcoreapp2.0\NthDigit.runtimeconfig.json
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\bin\Debug\netcoreapp2.0\NthDigit.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\bin\Debug\netcoreapp2.0\NthDigit.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\bin\Debug\netcoreapp2.0\NthDigit.pdb
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\obj\Debug\netcoreapp2.0\NthDigit.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\obj\Debug\netcoreapp2.0\NthDigit.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\obj\Debug\netcoreapp2.0\NthDigit.AssemblyInfo.cs
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\obj\Debug\netcoreapp2.0\NthDigit.dll
+D:\Repos\ExtendedArraysAndMethodsExercises\NthDigit\obj\Debug\netcoreapp2.0\NthDigit.pdb

@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\obj\Debug\netcoreapp2.0\MultiplicationTable2.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\obj\Debug\netcoreapp2.0\MultiplicationTable2.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\obj\Debug\netcoreapp2.0\MultiplicationTable2.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\obj\Debug\netcoreapp2.0\MultiplicationTable2.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\bin\Debug\netcoreapp2.0\MultiplicationTable2.deps.json
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\bin\Debug\netcoreapp2.0\MultiplicationTable2.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\bin\Debug\netcoreapp2.0\MultiplicationTable2.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\bin\Debug\netcoreapp2.0\MultiplicationTable2.dll
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\bin\Debug\netcoreapp2.0\MultiplicationTable2.pdb
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\obj\Debug\netcoreapp2.0\MultiplicationTable2.dll
+D:\Repos\ConditionalStatementsandLoops\MultiplicationTable2\obj\Debug\netcoreapp2.0\MultiplicationTable2.pdb

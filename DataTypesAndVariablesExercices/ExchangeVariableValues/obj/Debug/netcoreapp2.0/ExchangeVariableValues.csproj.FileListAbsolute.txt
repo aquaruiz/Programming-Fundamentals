@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\bin\Debug\netcoreapp2.0\ExchangeVariableValues.deps.json
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\bin\Debug\netcoreapp2.0\ExchangeVariableValues.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\bin\Debug\netcoreapp2.0\ExchangeVariableValues.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\bin\Debug\netcoreapp2.0\ExchangeVariableValues.dll
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\bin\Debug\netcoreapp2.0\ExchangeVariableValues.pdb
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\obj\Debug\netcoreapp2.0\ExchangeVariableValues.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\obj\Debug\netcoreapp2.0\ExchangeVariableValues.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\obj\Debug\netcoreapp2.0\ExchangeVariableValues.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\obj\Debug\netcoreapp2.0\ExchangeVariableValues.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\obj\Debug\netcoreapp2.0\ExchangeVariableValues.dll
+D:\Repos\DataTypesAndVariablesExercices\ExchangeVariableValues\obj\Debug\netcoreapp2.0\ExchangeVariableValues.pdb

@@ -1,0 +1,11 @@
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\bin\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.deps.json
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\bin\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.runtimeconfig.json
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\bin\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.runtimeconfig.dev.json
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\bin\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.dll
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\bin\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.pdb
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\obj\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\obj\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\obj\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.AssemblyInfoInputs.cache
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\obj\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.AssemblyInfo.cs
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\obj\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.dll
+D:\Repos\ExtendedListsExercises\RemoveElementsAtOddPositions\obj\Debug\netcoreapp2.0\RemoveElementsAtOddPositions.pdb

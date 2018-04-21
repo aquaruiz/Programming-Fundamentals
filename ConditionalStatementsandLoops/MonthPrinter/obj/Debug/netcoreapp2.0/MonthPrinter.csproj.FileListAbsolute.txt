@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\obj\Debug\netcoreapp2.0\MonthPrinter.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\obj\Debug\netcoreapp2.0\MonthPrinter.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\obj\Debug\netcoreapp2.0\MonthPrinter.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\obj\Debug\netcoreapp2.0\MonthPrinter.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\bin\Debug\netcoreapp2.0\MonthPrinter.deps.json
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\bin\Debug\netcoreapp2.0\MonthPrinter.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\bin\Debug\netcoreapp2.0\MonthPrinter.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\bin\Debug\netcoreapp2.0\MonthPrinter.dll
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\bin\Debug\netcoreapp2.0\MonthPrinter.pdb
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\obj\Debug\netcoreapp2.0\MonthPrinter.dll
+D:\Repos\ConditionalStatementsandLoops\MonthPrinter\obj\Debug\netcoreapp2.0\MonthPrinter.pdb

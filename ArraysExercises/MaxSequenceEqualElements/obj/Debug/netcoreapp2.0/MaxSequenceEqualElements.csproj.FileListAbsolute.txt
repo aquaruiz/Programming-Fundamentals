@@ -1,0 +1,11 @@
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceEqualElements.deps.json
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceEqualElements.runtimeconfig.json
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceEqualElements.runtimeconfig.dev.json
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceEqualElements.dll
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\bin\Debug\netcoreapp2.0\MaxSequenceEqualElements.pdb
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceEqualElements.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceEqualElements.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceEqualElements.AssemblyInfoInputs.cache
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceEqualElements.AssemblyInfo.cs
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceEqualElements.dll
+D:\Repos\ArraysExercises\MaxSequenceEqualElements\obj\Debug\netcoreapp2.0\MaxSequenceEqualElements.pdb

@@ -1,0 +1,11 @@
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.deps.json
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.dll
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.pdb
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.csprojResolveAssemblyReference.cache
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.dll
+D:\Repos\RegularExpressionsRegExLab\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.pdb

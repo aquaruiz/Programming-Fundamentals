@@ -1,0 +1,11 @@
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\bin\Debug\netcoreapp2.0\CountSubstringOccurrences.deps.json
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\bin\Debug\netcoreapp2.0\CountSubstringOccurrences.runtimeconfig.json
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\bin\Debug\netcoreapp2.0\CountSubstringOccurrences.runtimeconfig.dev.json
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\bin\Debug\netcoreapp2.0\CountSubstringOccurrences.dll
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\bin\Debug\netcoreapp2.0\CountSubstringOccurrences.pdb
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\obj\Debug\netcoreapp2.0\CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\obj\Debug\netcoreapp2.0\CountSubstringOccurrences.csproj.CoreCompileInputs.cache
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\obj\Debug\netcoreapp2.0\CountSubstringOccurrences.AssemblyInfoInputs.cache
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\obj\Debug\netcoreapp2.0\CountSubstringOccurrences.AssemblyInfo.cs
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\obj\Debug\netcoreapp2.0\CountSubstringOccurrences.dll
+D:\Repos\StringsAndTextProcessingLab\CountSubstringOccurrences\obj\Debug\netcoreapp2.0\CountSubstringOccurrences.pdb

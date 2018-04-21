@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\bin\Debug\netcoreapp2.0\CatchTheThief.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\bin\Debug\netcoreapp2.0\CatchTheThief.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\bin\Debug\netcoreapp2.0\CatchTheThief.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\bin\Debug\netcoreapp2.0\CatchTheThief.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\bin\Debug\netcoreapp2.0\CatchTheThief.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\obj\Debug\netcoreapp2.0\CatchTheThief.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\obj\Debug\netcoreapp2.0\CatchTheThief.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\obj\Debug\netcoreapp2.0\CatchTheThief.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\obj\Debug\netcoreapp2.0\CatchTheThief.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\obj\Debug\netcoreapp2.0\CatchTheThief.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\CatchTheThief\obj\Debug\netcoreapp2.0\CatchTheThief.csprojResolveAssemblyReference.cache

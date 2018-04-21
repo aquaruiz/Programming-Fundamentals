@@ -1,0 +1,11 @@
+D:\Repos\Loops\Diamond\bin\Debug\netcoreapp2.0\Diamond.deps.json
+D:\Repos\Loops\Diamond\bin\Debug\netcoreapp2.0\Diamond.runtimeconfig.json
+D:\Repos\Loops\Diamond\bin\Debug\netcoreapp2.0\Diamond.runtimeconfig.dev.json
+D:\Repos\Loops\Diamond\bin\Debug\netcoreapp2.0\Diamond.dll
+D:\Repos\Loops\Diamond\bin\Debug\netcoreapp2.0\Diamond.pdb
+D:\Repos\Loops\Diamond\obj\Debug\netcoreapp2.0\Diamond.csproj.CoreCompileInputs.cache
+D:\Repos\Loops\Diamond\obj\Debug\netcoreapp2.0\Diamond.AssemblyInfoInputs.cache
+D:\Repos\Loops\Diamond\obj\Debug\netcoreapp2.0\Diamond.AssemblyInfo.cs
+D:\Repos\Loops\Diamond\obj\Debug\netcoreapp2.0\Diamond.dll
+D:\Repos\Loops\Diamond\obj\Debug\netcoreapp2.0\Diamond.pdb
+D:\Repos\Loops\Diamond\obj\Debug\netcoreapp2.0\Diamond.csprojResolveAssemblyReference.cache

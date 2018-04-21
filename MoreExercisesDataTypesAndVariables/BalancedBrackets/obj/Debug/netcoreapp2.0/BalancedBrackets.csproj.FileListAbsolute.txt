@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.deps.json
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.runtimeconfig.json
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.runtimeconfig.dev.json
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\bin\Debug\netcoreapp2.0\BalancedBrackets.pdb
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.AssemblyInfo.cs
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.dll
+D:\Repos\MoreExercisesDataTypesAndVariables\BalancedBrackets\obj\Debug\netcoreapp2.0\BalancedBrackets.pdb

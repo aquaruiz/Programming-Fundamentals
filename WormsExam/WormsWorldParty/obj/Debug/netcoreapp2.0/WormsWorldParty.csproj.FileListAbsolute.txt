@@ -1,0 +1,11 @@
+D:\Repos\WormsExam\WormsWorldParty\bin\Debug\netcoreapp2.0\WormsWorldParty.deps.json
+D:\Repos\WormsExam\WormsWorldParty\bin\Debug\netcoreapp2.0\WormsWorldParty.runtimeconfig.json
+D:\Repos\WormsExam\WormsWorldParty\bin\Debug\netcoreapp2.0\WormsWorldParty.runtimeconfig.dev.json
+D:\Repos\WormsExam\WormsWorldParty\bin\Debug\netcoreapp2.0\WormsWorldParty.dll
+D:\Repos\WormsExam\WormsWorldParty\bin\Debug\netcoreapp2.0\WormsWorldParty.pdb
+D:\Repos\WormsExam\WormsWorldParty\obj\Debug\netcoreapp2.0\WormsWorldParty.csprojResolveAssemblyReference.cache
+D:\Repos\WormsExam\WormsWorldParty\obj\Debug\netcoreapp2.0\WormsWorldParty.csproj.CoreCompileInputs.cache
+D:\Repos\WormsExam\WormsWorldParty\obj\Debug\netcoreapp2.0\WormsWorldParty.AssemblyInfoInputs.cache
+D:\Repos\WormsExam\WormsWorldParty\obj\Debug\netcoreapp2.0\WormsWorldParty.AssemblyInfo.cs
+D:\Repos\WormsExam\WormsWorldParty\obj\Debug\netcoreapp2.0\WormsWorldParty.dll
+D:\Repos\WormsExam\WormsWorldParty\obj\Debug\netcoreapp2.0\WormsWorldParty.pdb

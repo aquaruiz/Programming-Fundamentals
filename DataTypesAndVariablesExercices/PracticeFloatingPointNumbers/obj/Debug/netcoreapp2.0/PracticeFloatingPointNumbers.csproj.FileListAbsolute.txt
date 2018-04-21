@@ -1,0 +1,10 @@
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\bin\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.deps.json
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\bin\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\bin\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\bin\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.dll
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\bin\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.pdb
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.dll
+D:\Repos\DataTypesAndVariablesExercices\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.0\PracticeFloatingPointNumbers.pdb

@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\bin\Debug\netcoreapp2.0\TemperatureConversion.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\TemperatureConversion\obj\Debug\netcoreapp2.0\TemperatureConversion.pdb

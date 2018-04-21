@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\bin\Debug\netcoreapp2.0\PrimesInGivenRange.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\bin\Debug\netcoreapp2.0\PrimesInGivenRange.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\bin\Debug\netcoreapp2.0\PrimesInGivenRange.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\bin\Debug\netcoreapp2.0\PrimesInGivenRange.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\bin\Debug\netcoreapp2.0\PrimesInGivenRange.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\obj\Debug\netcoreapp2.0\PrimesInGivenRange.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\obj\Debug\netcoreapp2.0\PrimesInGivenRange.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\obj\Debug\netcoreapp2.0\PrimesInGivenRange.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\obj\Debug\netcoreapp2.0\PrimesInGivenRange.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\obj\Debug\netcoreapp2.0\PrimesInGivenRange.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\PrimesInGivenRange\obj\Debug\netcoreapp2.0\PrimesInGivenRange.pdb

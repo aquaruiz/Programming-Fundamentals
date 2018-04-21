@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.pdb

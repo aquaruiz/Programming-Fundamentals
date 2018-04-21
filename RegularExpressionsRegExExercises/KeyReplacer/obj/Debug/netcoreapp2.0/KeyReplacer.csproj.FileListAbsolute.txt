@@ -1,0 +1,10 @@
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.deps.json
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.runtimeconfig.json
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.runtimeconfig.dev.json
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.dll
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.pdb
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.csproj.CoreCompileInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.AssemblyInfoInputs.cache
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.AssemblyInfo.cs
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.dll
+D:\Repos\RegularExpressionsRegExExercises\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.pdb

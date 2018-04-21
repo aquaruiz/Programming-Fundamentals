@@ -1,0 +1,11 @@
+D:\Repos\ListsExercises\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.deps.json
+D:\Repos\ListsExercises\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.runtimeconfig.json
+D:\Repos\ListsExercises\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.runtimeconfig.dev.json
+D:\Repos\ListsExercises\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.dll
+D:\Repos\ListsExercises\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.pdb
+D:\Repos\ListsExercises\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.csprojResolveAssemblyReference.cache
+D:\Repos\ListsExercises\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.csproj.CoreCompileInputs.cache
+D:\Repos\ListsExercises\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.AssemblyInfoInputs.cache
+D:\Repos\ListsExercises\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.AssemblyInfo.cs
+D:\Repos\ListsExercises\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.dll
+D:\Repos\ListsExercises\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.pdb

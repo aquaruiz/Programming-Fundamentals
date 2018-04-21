@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.deps.json
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.dll
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.pdb
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.dll
+D:\Repos\DataTypesAndVariablesExercices\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.pdb

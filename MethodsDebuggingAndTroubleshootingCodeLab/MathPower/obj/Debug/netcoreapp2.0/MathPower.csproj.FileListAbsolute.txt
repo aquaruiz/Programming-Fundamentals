@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\bin\Debug\netcoreapp2.0\MathPower.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\bin\Debug\netcoreapp2.0\MathPower.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\bin\Debug\netcoreapp2.0\MathPower.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\bin\Debug\netcoreapp2.0\MathPower.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\bin\Debug\netcoreapp2.0\MathPower.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\obj\Debug\netcoreapp2.0\MathPower.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\obj\Debug\netcoreapp2.0\MathPower.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\obj\Debug\netcoreapp2.0\MathPower.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\obj\Debug\netcoreapp2.0\MathPower.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\obj\Debug\netcoreapp2.0\MathPower.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeLab\MathPower\obj\Debug\netcoreapp2.0\MathPower.pdb

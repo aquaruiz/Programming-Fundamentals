@@ -1,0 +1,11 @@
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.deps.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.runtimeconfig.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.runtimeconfig.dev.json
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.dll
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\bin\Debug\netcoreapp2.0\AnonymousVox.pdb
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.csprojResolveAssemblyReference.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.csproj.CoreCompileInputs.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.AssemblyInfoInputs.cache
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.AssemblyInfo.cs
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.dll
+D:\C# Solutions\ExtendedStringsAndRegexExercises\AnonymousVox\obj\Debug\netcoreapp2.0\AnonymousVox.pdb

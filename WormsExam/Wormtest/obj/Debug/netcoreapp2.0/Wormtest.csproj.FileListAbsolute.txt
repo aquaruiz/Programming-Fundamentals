@@ -1,0 +1,11 @@
+D:\Repos\WormsExam\Wormtest\bin\Debug\netcoreapp2.0\Wormtest.deps.json
+D:\Repos\WormsExam\Wormtest\bin\Debug\netcoreapp2.0\Wormtest.runtimeconfig.json
+D:\Repos\WormsExam\Wormtest\bin\Debug\netcoreapp2.0\Wormtest.runtimeconfig.dev.json
+D:\Repos\WormsExam\Wormtest\bin\Debug\netcoreapp2.0\Wormtest.dll
+D:\Repos\WormsExam\Wormtest\bin\Debug\netcoreapp2.0\Wormtest.pdb
+D:\Repos\WormsExam\Wormtest\obj\Debug\netcoreapp2.0\Wormtest.csprojResolveAssemblyReference.cache
+D:\Repos\WormsExam\Wormtest\obj\Debug\netcoreapp2.0\Wormtest.csproj.CoreCompileInputs.cache
+D:\Repos\WormsExam\Wormtest\obj\Debug\netcoreapp2.0\Wormtest.AssemblyInfoInputs.cache
+D:\Repos\WormsExam\Wormtest\obj\Debug\netcoreapp2.0\Wormtest.AssemblyInfo.cs
+D:\Repos\WormsExam\Wormtest\obj\Debug\netcoreapp2.0\Wormtest.dll
+D:\Repos\WormsExam\Wormtest\obj\Debug\netcoreapp2.0\Wormtest.pdb

@@ -1,0 +1,11 @@
+D:\Repos\ExtendedListsExercises\FlipListSides\bin\Debug\netcoreapp2.0\FlipListSides.deps.json
+D:\Repos\ExtendedListsExercises\FlipListSides\bin\Debug\netcoreapp2.0\FlipListSides.runtimeconfig.json
+D:\Repos\ExtendedListsExercises\FlipListSides\bin\Debug\netcoreapp2.0\FlipListSides.runtimeconfig.dev.json
+D:\Repos\ExtendedListsExercises\FlipListSides\bin\Debug\netcoreapp2.0\FlipListSides.dll
+D:\Repos\ExtendedListsExercises\FlipListSides\bin\Debug\netcoreapp2.0\FlipListSides.pdb
+D:\Repos\ExtendedListsExercises\FlipListSides\obj\Debug\netcoreapp2.0\FlipListSides.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedListsExercises\FlipListSides\obj\Debug\netcoreapp2.0\FlipListSides.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedListsExercises\FlipListSides\obj\Debug\netcoreapp2.0\FlipListSides.AssemblyInfoInputs.cache
+D:\Repos\ExtendedListsExercises\FlipListSides\obj\Debug\netcoreapp2.0\FlipListSides.AssemblyInfo.cs
+D:\Repos\ExtendedListsExercises\FlipListSides\obj\Debug\netcoreapp2.0\FlipListSides.dll
+D:\Repos\ExtendedListsExercises\FlipListSides\obj\Debug\netcoreapp2.0\FlipListSides.pdb

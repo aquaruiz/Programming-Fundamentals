@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\IntegerToHexAndBinary.deps.json
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\IntegerToHexAndBinary.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\IntegerToHexAndBinary.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\IntegerToHexAndBinary.dll
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\IntegerToHexAndBinary.pdb
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\IntegerToHexAndBinary.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\IntegerToHexAndBinary.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\IntegerToHexAndBinary.dll
+D:\Repos\DataTypesAndVariablesExercices\IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\IntegerToHexAndBinary.pdb

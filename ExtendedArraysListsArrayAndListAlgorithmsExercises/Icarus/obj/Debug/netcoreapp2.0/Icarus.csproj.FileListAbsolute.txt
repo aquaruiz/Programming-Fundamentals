@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\bin\Debug\netcoreapp2.0\Icarus.deps.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\bin\Debug\netcoreapp2.0\Icarus.runtimeconfig.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\bin\Debug\netcoreapp2.0\Icarus.runtimeconfig.dev.json
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\bin\Debug\netcoreapp2.0\Icarus.dll
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\bin\Debug\netcoreapp2.0\Icarus.pdb
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\obj\Debug\netcoreapp2.0\Icarus.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\obj\Debug\netcoreapp2.0\Icarus.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\obj\Debug\netcoreapp2.0\Icarus.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\obj\Debug\netcoreapp2.0\Icarus.AssemblyInfo.cs
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\obj\Debug\netcoreapp2.0\Icarus.dll
+D:\Repos\ExtendedArraysListsArrayAndListAlgorithmsExercises\Icarus\obj\Debug\netcoreapp2.0\Icarus.pdb

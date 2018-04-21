@@ -1,0 +1,11 @@
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\bin\Debug\netcoreapp2.0\Largest3Numbers.deps.json
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\bin\Debug\netcoreapp2.0\Largest3Numbers.runtimeconfig.json
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\bin\Debug\netcoreapp2.0\Largest3Numbers.runtimeconfig.dev.json
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\bin\Debug\netcoreapp2.0\Largest3Numbers.dll
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\bin\Debug\netcoreapp2.0\Largest3Numbers.pdb
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\obj\Debug\netcoreapp2.0\Largest3Numbers.csprojResolveAssemblyReference.cache
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\obj\Debug\netcoreapp2.0\Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\obj\Debug\netcoreapp2.0\Largest3Numbers.AssemblyInfoInputs.cache
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\obj\Debug\netcoreapp2.0\Largest3Numbers.AssemblyInfo.cs
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\obj\Debug\netcoreapp2.0\Largest3Numbers.dll
+D:\Repos\DictionariesLambdaAndLINQLab\Largest3Numbers\obj\Debug\netcoreapp2.0\Largest3Numbers.pdb

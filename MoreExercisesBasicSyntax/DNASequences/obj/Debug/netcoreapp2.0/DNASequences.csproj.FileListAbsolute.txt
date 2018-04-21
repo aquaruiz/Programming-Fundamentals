@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\bin\Debug\netcoreapp2.0\DNASequences.deps.json
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\bin\Debug\netcoreapp2.0\DNASequences.runtimeconfig.json
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\bin\Debug\netcoreapp2.0\DNASequences.runtimeconfig.dev.json
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\bin\Debug\netcoreapp2.0\DNASequences.dll
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\bin\Debug\netcoreapp2.0\DNASequences.pdb
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\obj\Debug\netcoreapp2.0\DNASequences.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\obj\Debug\netcoreapp2.0\DNASequences.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\obj\Debug\netcoreapp2.0\DNASequences.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\obj\Debug\netcoreapp2.0\DNASequences.AssemblyInfo.cs
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\obj\Debug\netcoreapp2.0\DNASequences.dll
+D:\Repos\MoreExercisesBasicSyntax\DNASequences\obj\Debug\netcoreapp2.0\DNASequences.pdb

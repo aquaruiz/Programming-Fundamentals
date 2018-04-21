@@ -1,0 +1,11 @@
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.deps.json
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.runtimeconfig.json
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.runtimeconfig.dev.json
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.dll
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.pdb
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.csproj.CoreCompileInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.AssemblyInfoInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.AssemblyInfo.cs
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.dll
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.pdb
+D:\Repos\DictionariesLambdaLINQExercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.csprojResolveAssemblyReference.cache

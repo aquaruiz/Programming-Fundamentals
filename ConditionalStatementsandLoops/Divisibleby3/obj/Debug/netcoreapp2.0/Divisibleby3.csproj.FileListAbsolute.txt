@@ -1,0 +1,10 @@
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\bin\Debug\netcoreapp2.0\Divisibleby3.deps.json
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\bin\Debug\netcoreapp2.0\Divisibleby3.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\bin\Debug\netcoreapp2.0\Divisibleby3.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\bin\Debug\netcoreapp2.0\Divisibleby3.dll
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\bin\Debug\netcoreapp2.0\Divisibleby3.pdb
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\obj\Debug\netcoreapp2.0\Divisibleby3.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\obj\Debug\netcoreapp2.0\Divisibleby3.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\obj\Debug\netcoreapp2.0\Divisibleby3.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\obj\Debug\netcoreapp2.0\Divisibleby3.dll
+D:\Repos\ConditionalStatementsandLoops\Divisibleby3\obj\Debug\netcoreapp2.0\Divisibleby3.pdb

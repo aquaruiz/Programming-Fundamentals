@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesBasicSyntax\X\bin\Debug\netcoreapp2.0\X.deps.json
+D:\Repos\MoreExercisesBasicSyntax\X\bin\Debug\netcoreapp2.0\X.runtimeconfig.json
+D:\Repos\MoreExercisesBasicSyntax\X\bin\Debug\netcoreapp2.0\X.runtimeconfig.dev.json
+D:\Repos\MoreExercisesBasicSyntax\X\bin\Debug\netcoreapp2.0\X.dll
+D:\Repos\MoreExercisesBasicSyntax\X\bin\Debug\netcoreapp2.0\X.pdb
+D:\Repos\MoreExercisesBasicSyntax\X\obj\Debug\netcoreapp2.0\X.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesBasicSyntax\X\obj\Debug\netcoreapp2.0\X.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\X\obj\Debug\netcoreapp2.0\X.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\X\obj\Debug\netcoreapp2.0\X.AssemblyInfo.cs
+D:\Repos\MoreExercisesBasicSyntax\X\obj\Debug\netcoreapp2.0\X.dll
+D:\Repos\MoreExercisesBasicSyntax\X\obj\Debug\netcoreapp2.0\X.pdb

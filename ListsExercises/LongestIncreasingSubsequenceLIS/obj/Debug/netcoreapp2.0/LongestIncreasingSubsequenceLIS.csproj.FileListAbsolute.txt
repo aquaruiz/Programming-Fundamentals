@@ -1,0 +1,11 @@
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.csprojResolveAssemblyReference.cache
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.csproj.CoreCompileInputs.cache
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.AssemblyInfoInputs.cache
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.AssemblyInfo.cs
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.deps.json
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.runtimeconfig.json
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.runtimeconfig.dev.json
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.dll
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\bin\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.pdb
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.dll
+D:\Repos\ListsExercises\LongestIncreasingSubsequenceLIS\obj\Debug\netcoreapp2.0\LongestIncreasingSubsequenceLIS.pdb

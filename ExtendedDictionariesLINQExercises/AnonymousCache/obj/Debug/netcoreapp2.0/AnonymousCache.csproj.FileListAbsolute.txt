@@ -1,0 +1,11 @@
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.deps.json
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.json
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.dev.json
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.dll
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.pdb
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csprojResolveAssemblyReference.cache
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csproj.CoreCompileInputs.cache
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfoInputs.cache
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfo.cs
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.dll
+D:\C# Solutions\ExtendedDictionariesLINQExercises\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.pdb

@@ -1,0 +1,10 @@
+D:\Repos\BasicSyntaxExercises\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.deps.json
+D:\Repos\BasicSyntaxExercises\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.runtimeconfig.json
+D:\Repos\BasicSyntaxExercises\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.runtimeconfig.dev.json
+D:\Repos\BasicSyntaxExercises\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.dll
+D:\Repos\BasicSyntaxExercises\BeverageLabels\bin\Debug\netcoreapp2.0\BeverageLabels.pdb
+D:\Repos\BasicSyntaxExercises\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.csproj.CoreCompileInputs.cache
+D:\Repos\BasicSyntaxExercises\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.AssemblyInfoInputs.cache
+D:\Repos\BasicSyntaxExercises\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.AssemblyInfo.cs
+D:\Repos\BasicSyntaxExercises\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.dll
+D:\Repos\BasicSyntaxExercises\BeverageLabels\obj\Debug\netcoreapp2.0\BeverageLabels.pdb

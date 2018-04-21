@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\bin\Debug\netcoreapp2.0\DecodeRadioFrequencies.deps.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\bin\Debug\netcoreapp2.0\DecodeRadioFrequencies.runtimeconfig.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\bin\Debug\netcoreapp2.0\DecodeRadioFrequencies.runtimeconfig.dev.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\bin\Debug\netcoreapp2.0\DecodeRadioFrequencies.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\bin\Debug\netcoreapp2.0\DecodeRadioFrequencies.pdb
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\obj\Debug\netcoreapp2.0\DecodeRadioFrequencies.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\obj\Debug\netcoreapp2.0\DecodeRadioFrequencies.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\obj\Debug\netcoreapp2.0\DecodeRadioFrequencies.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\obj\Debug\netcoreapp2.0\DecodeRadioFrequencies.AssemblyInfo.cs
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\obj\Debug\netcoreapp2.0\DecodeRadioFrequencies.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\DecodeRadioFrequencies\obj\Debug\netcoreapp2.0\DecodeRadioFrequencies.pdb

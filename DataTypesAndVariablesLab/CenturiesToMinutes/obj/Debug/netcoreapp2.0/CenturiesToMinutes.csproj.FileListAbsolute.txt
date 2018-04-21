@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.deps.json
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.dll
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp2.0\CenturiesToMinutes.pdb
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.dll
+D:\Repos\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp2.0\CenturiesToMinutes.pdb

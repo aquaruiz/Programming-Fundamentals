@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\bin\Debug\netcoreapp2.0\DebugBePositive.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\bin\Debug\netcoreapp2.0\DebugBePositive.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\bin\Debug\netcoreapp2.0\DebugBePositive.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\bin\Debug\netcoreapp2.0\DebugBePositive.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\bin\Debug\netcoreapp2.0\DebugBePositive.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\obj\Debug\netcoreapp2.0\DebugBePositive.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\obj\Debug\netcoreapp2.0\DebugBePositive.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\obj\Debug\netcoreapp2.0\DebugBePositive.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\obj\Debug\netcoreapp2.0\DebugBePositive.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\obj\Debug\netcoreapp2.0\DebugBePositive.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\DebugBePositive\obj\Debug\netcoreapp2.0\DebugBePositive.pdb

@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\bin\Debug\netcoreapp2.0\Mines.deps.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\bin\Debug\netcoreapp2.0\Mines.runtimeconfig.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\bin\Debug\netcoreapp2.0\Mines.runtimeconfig.dev.json
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\bin\Debug\netcoreapp2.0\Mines.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\bin\Debug\netcoreapp2.0\Mines.pdb
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\obj\Debug\netcoreapp2.0\Mines.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\obj\Debug\netcoreapp2.0\Mines.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\obj\Debug\netcoreapp2.0\Mines.AssemblyInfo.cs
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\obj\Debug\netcoreapp2.0\Mines.dll
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\obj\Debug\netcoreapp2.0\Mines.pdb
+D:\Repos\MoreExercisesStringsAndRegularExpressions\Mines\obj\Debug\netcoreapp2.0\Mines.csprojResolveAssemblyReference.cache

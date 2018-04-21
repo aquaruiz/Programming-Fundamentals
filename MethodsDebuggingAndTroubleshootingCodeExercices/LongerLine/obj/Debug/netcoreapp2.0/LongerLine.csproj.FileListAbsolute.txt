@@ -1,0 +1,10 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\bin\Debug\netcoreapp2.0\LongerLine.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\bin\Debug\netcoreapp2.0\LongerLine.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\bin\Debug\netcoreapp2.0\LongerLine.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\bin\Debug\netcoreapp2.0\LongerLine.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\bin\Debug\netcoreapp2.0\LongerLine.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\obj\Debug\netcoreapp2.0\LongerLine.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\obj\Debug\netcoreapp2.0\LongerLine.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\obj\Debug\netcoreapp2.0\LongerLine.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\obj\Debug\netcoreapp2.0\LongerLine.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\LongerLine\obj\Debug\netcoreapp2.0\LongerLine.pdb

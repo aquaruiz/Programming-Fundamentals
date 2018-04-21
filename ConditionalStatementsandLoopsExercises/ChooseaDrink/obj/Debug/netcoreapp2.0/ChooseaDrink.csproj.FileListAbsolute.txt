@@ -1,0 +1,11 @@
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\bin\Debug\netcoreapp2.0\ChooseaDrink.deps.json
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\bin\Debug\netcoreapp2.0\ChooseaDrink.runtimeconfig.json
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\bin\Debug\netcoreapp2.0\ChooseaDrink.runtimeconfig.dev.json
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\bin\Debug\netcoreapp2.0\ChooseaDrink.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\bin\Debug\netcoreapp2.0\ChooseaDrink.pdb
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\obj\Debug\netcoreapp2.0\ChooseaDrink.csprojResolveAssemblyReference.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\obj\Debug\netcoreapp2.0\ChooseaDrink.csproj.CoreCompileInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\obj\Debug\netcoreapp2.0\ChooseaDrink.AssemblyInfoInputs.cache
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\obj\Debug\netcoreapp2.0\ChooseaDrink.AssemblyInfo.cs
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\obj\Debug\netcoreapp2.0\ChooseaDrink.dll
+D:\Repos\ConditionalStatementsandLoopsExercises\ChooseaDrink\obj\Debug\netcoreapp2.0\ChooseaDrink.pdb

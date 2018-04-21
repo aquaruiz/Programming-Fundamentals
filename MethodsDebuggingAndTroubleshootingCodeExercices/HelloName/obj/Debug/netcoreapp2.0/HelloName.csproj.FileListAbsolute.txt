@@ -1,0 +1,11 @@
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\bin\Debug\netcoreapp2.0\HelloName.deps.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\bin\Debug\netcoreapp2.0\HelloName.runtimeconfig.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\bin\Debug\netcoreapp2.0\HelloName.runtimeconfig.dev.json
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\bin\Debug\netcoreapp2.0\HelloName.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\bin\Debug\netcoreapp2.0\HelloName.pdb
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\obj\Debug\netcoreapp2.0\HelloName.csprojResolveAssemblyReference.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\obj\Debug\netcoreapp2.0\HelloName.csproj.CoreCompileInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\obj\Debug\netcoreapp2.0\HelloName.AssemblyInfoInputs.cache
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\obj\Debug\netcoreapp2.0\HelloName.AssemblyInfo.cs
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\obj\Debug\netcoreapp2.0\HelloName.dll
+D:\Repos\MethodsDebuggingAndTroubleshootingCodeExercices\HelloName\obj\Debug\netcoreapp2.0\HelloName.pdb

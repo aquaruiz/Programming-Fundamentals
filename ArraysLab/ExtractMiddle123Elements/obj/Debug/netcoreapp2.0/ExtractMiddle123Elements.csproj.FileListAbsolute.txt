@@ -1,0 +1,11 @@
+D:\Repos\ArraysLab\ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\ExtractMiddle123Elements.csprojResolveAssemblyReference.cache
+D:\Repos\ArraysLab\ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\ExtractMiddle123Elements.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysLab\ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\ExtractMiddle123Elements.AssemblyInfoInputs.cache
+D:\Repos\ArraysLab\ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\ExtractMiddle123Elements.AssemblyInfo.cs
+D:\Repos\ArraysLab\ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\ExtractMiddle123Elements.deps.json
+D:\Repos\ArraysLab\ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\ExtractMiddle123Elements.runtimeconfig.json
+D:\Repos\ArraysLab\ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\ExtractMiddle123Elements.runtimeconfig.dev.json
+D:\Repos\ArraysLab\ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\ExtractMiddle123Elements.dll
+D:\Repos\ArraysLab\ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\ExtractMiddle123Elements.pdb
+D:\Repos\ArraysLab\ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\ExtractMiddle123Elements.dll
+D:\Repos\ArraysLab\ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\ExtractMiddle123Elements.pdb

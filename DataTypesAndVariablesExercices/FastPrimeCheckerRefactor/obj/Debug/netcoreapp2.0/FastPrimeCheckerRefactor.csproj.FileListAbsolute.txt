@@ -1,0 +1,11 @@
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.deps.json
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.dll
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\bin\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.pdb
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.csprojResolveAssemblyReference.cache
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.dll
+D:\Repos\DataTypesAndVariablesExercices\FastPrimeCheckerRefactor\obj\Debug\netcoreapp2.0\FastPrimeCheckerRefactor.pdb

@@ -1,0 +1,11 @@
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp2.0\InventoryMatcher.deps.json
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp2.0\InventoryMatcher.runtimeconfig.json
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp2.0\InventoryMatcher.runtimeconfig.dev.json
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp2.0\InventoryMatcher.dll
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp2.0\InventoryMatcher.pdb
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp2.0\InventoryMatcher.csprojResolveAssemblyReference.cache
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp2.0\InventoryMatcher.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp2.0\InventoryMatcher.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp2.0\InventoryMatcher.AssemblyInfo.cs
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp2.0\InventoryMatcher.dll
+D:\Repos\MoreExercisesArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp2.0\InventoryMatcher.pdb

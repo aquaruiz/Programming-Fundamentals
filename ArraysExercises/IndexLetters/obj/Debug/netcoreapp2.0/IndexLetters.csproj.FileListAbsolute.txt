@@ -1,0 +1,10 @@
+D:\Repos\ArraysExercises\IndexLetters\bin\Debug\netcoreapp2.0\IndexLetters.deps.json
+D:\Repos\ArraysExercises\IndexLetters\bin\Debug\netcoreapp2.0\IndexLetters.runtimeconfig.json
+D:\Repos\ArraysExercises\IndexLetters\bin\Debug\netcoreapp2.0\IndexLetters.runtimeconfig.dev.json
+D:\Repos\ArraysExercises\IndexLetters\bin\Debug\netcoreapp2.0\IndexLetters.dll
+D:\Repos\ArraysExercises\IndexLetters\bin\Debug\netcoreapp2.0\IndexLetters.pdb
+D:\Repos\ArraysExercises\IndexLetters\obj\Debug\netcoreapp2.0\IndexLetters.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysExercises\IndexLetters\obj\Debug\netcoreapp2.0\IndexLetters.AssemblyInfoInputs.cache
+D:\Repos\ArraysExercises\IndexLetters\obj\Debug\netcoreapp2.0\IndexLetters.AssemblyInfo.cs
+D:\Repos\ArraysExercises\IndexLetters\obj\Debug\netcoreapp2.0\IndexLetters.dll
+D:\Repos\ArraysExercises\IndexLetters\obj\Debug\netcoreapp2.0\IndexLetters.pdb

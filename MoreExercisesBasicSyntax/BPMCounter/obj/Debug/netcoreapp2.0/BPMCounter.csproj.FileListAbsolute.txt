@@ -1,0 +1,10 @@
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\bin\Debug\netcoreapp2.0\BPMCounter.deps.json
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\bin\Debug\netcoreapp2.0\BPMCounter.runtimeconfig.json
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\bin\Debug\netcoreapp2.0\BPMCounter.runtimeconfig.dev.json
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\bin\Debug\netcoreapp2.0\BPMCounter.dll
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\bin\Debug\netcoreapp2.0\BPMCounter.pdb
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\obj\Debug\netcoreapp2.0\BPMCounter.csproj.CoreCompileInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\obj\Debug\netcoreapp2.0\BPMCounter.AssemblyInfoInputs.cache
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\obj\Debug\netcoreapp2.0\BPMCounter.AssemblyInfo.cs
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\obj\Debug\netcoreapp2.0\BPMCounter.dll
+D:\Repos\MoreExercisesBasicSyntax\BPMCounter\obj\Debug\netcoreapp2.0\BPMCounter.pdb

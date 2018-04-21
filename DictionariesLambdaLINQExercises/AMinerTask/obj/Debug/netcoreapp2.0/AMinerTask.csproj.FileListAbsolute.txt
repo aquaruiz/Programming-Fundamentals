@@ -1,0 +1,11 @@
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.deps.json
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.json
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.dev.json
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.dll
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.pdb
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csprojResolveAssemblyReference.cache
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csproj.CoreCompileInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfoInputs.cache
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfo.cs
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.dll
+D:\Repos\DictionariesLambdaLINQExercises\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.pdb

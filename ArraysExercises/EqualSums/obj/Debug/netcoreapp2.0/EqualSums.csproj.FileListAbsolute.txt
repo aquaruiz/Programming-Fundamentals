@@ -1,0 +1,10 @@
+D:\Repos\ArraysExercises\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.deps.json
+D:\Repos\ArraysExercises\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.runtimeconfig.json
+D:\Repos\ArraysExercises\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.runtimeconfig.dev.json
+D:\Repos\ArraysExercises\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.dll
+D:\Repos\ArraysExercises\EqualSums\bin\Debug\netcoreapp2.0\EqualSums.pdb
+D:\Repos\ArraysExercises\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.csproj.CoreCompileInputs.cache
+D:\Repos\ArraysExercises\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.AssemblyInfoInputs.cache
+D:\Repos\ArraysExercises\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.AssemblyInfo.cs
+D:\Repos\ArraysExercises\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.dll
+D:\Repos\ArraysExercises\EqualSums\obj\Debug\netcoreapp2.0\EqualSums.pdb

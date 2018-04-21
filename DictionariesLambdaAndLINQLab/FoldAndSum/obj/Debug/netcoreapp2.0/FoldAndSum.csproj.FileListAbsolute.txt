@@ -1,0 +1,11 @@
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.deps.json
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.json
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.dev.json
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.pdb
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csprojResolveAssemblyReference.cache
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfoInputs.cache
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfo.cs
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\Repos\DictionariesLambdaAndLINQLab\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.pdb

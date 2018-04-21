@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\bin\Debug\netcoreapp2.0\IncreasingCrisis.deps.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\bin\Debug\netcoreapp2.0\IncreasingCrisis.runtimeconfig.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\bin\Debug\netcoreapp2.0\IncreasingCrisis.runtimeconfig.dev.json
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\bin\Debug\netcoreapp2.0\IncreasingCrisis.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\bin\Debug\netcoreapp2.0\IncreasingCrisis.pdb
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\obj\Debug\netcoreapp2.0\IncreasingCrisis.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\obj\Debug\netcoreapp2.0\IncreasingCrisis.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\obj\Debug\netcoreapp2.0\IncreasingCrisis.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\obj\Debug\netcoreapp2.0\IncreasingCrisis.AssemblyInfo.cs
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\obj\Debug\netcoreapp2.0\IncreasingCrisis.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsMoreExercises\IncreasingCrisis\obj\Debug\netcoreapp2.0\IncreasingCrisis.pdb

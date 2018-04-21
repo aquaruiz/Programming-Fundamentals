@@ -1,0 +1,10 @@
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\bin\Debug\netcoreapp2.0\EqualSumAfterExtraction.deps.json
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\bin\Debug\netcoreapp2.0\EqualSumAfterExtraction.runtimeconfig.json
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\bin\Debug\netcoreapp2.0\EqualSumAfterExtraction.runtimeconfig.dev.json
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\bin\Debug\netcoreapp2.0\EqualSumAfterExtraction.dll
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\bin\Debug\netcoreapp2.0\EqualSumAfterExtraction.pdb
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\obj\Debug\netcoreapp2.0\EqualSumAfterExtraction.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\obj\Debug\netcoreapp2.0\EqualSumAfterExtraction.AssemblyInfoInputs.cache
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\obj\Debug\netcoreapp2.0\EqualSumAfterExtraction.AssemblyInfo.cs
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\obj\Debug\netcoreapp2.0\EqualSumAfterExtraction.dll
+D:\Repos\ExtendedListsExercises\EqualSumAfterExtraction\obj\Debug\netcoreapp2.0\EqualSumAfterExtraction.pdb

@@ -1,0 +1,11 @@
+D:\Repos\ExtendedListsExercises\StuckZipper\bin\Debug\netcoreapp2.0\StuckZipper.deps.json
+D:\Repos\ExtendedListsExercises\StuckZipper\bin\Debug\netcoreapp2.0\StuckZipper.runtimeconfig.json
+D:\Repos\ExtendedListsExercises\StuckZipper\bin\Debug\netcoreapp2.0\StuckZipper.runtimeconfig.dev.json
+D:\Repos\ExtendedListsExercises\StuckZipper\bin\Debug\netcoreapp2.0\StuckZipper.dll
+D:\Repos\ExtendedListsExercises\StuckZipper\bin\Debug\netcoreapp2.0\StuckZipper.pdb
+D:\Repos\ExtendedListsExercises\StuckZipper\obj\Debug\netcoreapp2.0\StuckZipper.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedListsExercises\StuckZipper\obj\Debug\netcoreapp2.0\StuckZipper.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedListsExercises\StuckZipper\obj\Debug\netcoreapp2.0\StuckZipper.AssemblyInfoInputs.cache
+D:\Repos\ExtendedListsExercises\StuckZipper\obj\Debug\netcoreapp2.0\StuckZipper.AssemblyInfo.cs
+D:\Repos\ExtendedListsExercises\StuckZipper\obj\Debug\netcoreapp2.0\StuckZipper.dll
+D:\Repos\ExtendedListsExercises\StuckZipper\obj\Debug\netcoreapp2.0\StuckZipper.pdb

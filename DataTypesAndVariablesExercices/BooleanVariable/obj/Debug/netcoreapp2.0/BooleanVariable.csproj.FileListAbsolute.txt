@@ -1,0 +1,10 @@
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.deps.json
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.runtimeconfig.json
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.runtimeconfig.dev.json
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.dll
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.pdb
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.csproj.CoreCompileInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.AssemblyInfoInputs.cache
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.AssemblyInfo.cs
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.dll
+D:\Repos\DataTypesAndVariablesExercices\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.pdb

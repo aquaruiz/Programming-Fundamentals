@@ -1,0 +1,11 @@
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.deps.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.runtimeconfig.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.runtimeconfig.dev.json
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\bin\Debug\netcoreapp2.0\ShootListElements.pdb
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.csprojResolveAssemblyReference.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.csproj.CoreCompileInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.AssemblyInfoInputs.cache
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.AssemblyInfo.cs
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.dll
+D:\Repos\ExtendedArrayAndListAlgorithmsExercises\ShootListElements\obj\Debug\netcoreapp2.0\ShootListElements.pdb
